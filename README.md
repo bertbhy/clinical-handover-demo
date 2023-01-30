@@ -5,7 +5,7 @@
 <div align="center">
   <h3 align="center">Clinical Handover Demo</h3>
   <p align="center">
-    A hospital IT project for supporting clinical handovers. Built with .NET Core, React.
+    A hospital IT project for supporting clinical handovers. Built with ASP.NET Core and React.
   </p>
   <p>
      <a href="https://bert-bei-clinical-handover.azurewebsites.net/">
