@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+path {
+  stroke: inherit;
+  /* fill: inherit; */
+}
+.react-datepicker-popper{
+  z-index: 81;
+}

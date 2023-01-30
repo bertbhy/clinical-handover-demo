@@ -1,0 +1,560 @@
+[
+  {
+    "background": "Primary disease - ? Nephronophthisis\nPost-renal transplant DDT 6+ months (on 5/2/22)\nImpaired graft function\nBiopsy proven BKV nephropathy\nDSA +ve \nPending biopsy report",
+    "diagnosis": "Underlying ? Nephronophthisis, Post-renal transplant DDT 6+ months (on 5/2/22)\nBKV nephropathy.\nImpaired graft function\nDSA +Ve \nBiopsy result pending \n",
+    "drugs": "",
+    "ix": "",
+    "progress": "Impaired graft function\nBKVN - Changed immunosuppressant to Cyclosporin/ Leflunomide ; Started Cidofovir infusion\nLatest BK PCR 4 log (decreasing)\nNoted DSA Low MFI level of IgG antibodies against HLA Class I and Class II antigens are detected\nSuspected rejection; biopsy done on 24/8, pending biopsy result \nIS plan - change to Cyclosporin/ Everolimus \ngiven plasma exchang and IVIG",
+    "recommendation": "home today",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Autosomal recessive nephronophthisis type III\nPost-transplant 9 weeks ",
+    "diagnosis": "Autosomal recessive nephronophthisis type III\nPost renal transplant DDT ",
+    "drugs": "",
+    "ix": "",
+    "progress": "Removal of JJ stent PD cathether 21/04/2022\nAdmitted for diarrhoea on 27/5/2022\nStool c/st: salmonella+, on rocephin",
+    "recommendation": "For total 14 days Rocephin",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "ESKD of unknown aetiology ",
+    "diagnosis": "ESKD of unknown aetiology ",
+    "drugs": "",
+    "ix": "",
+    "progress": "Admitted due to sudden death of father, now in ward for peritoneal dialysis\nIncreased PD number of cycles for better control of BP and fluid status ",
+    "recommendation": "plan home on Sat. ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Cystinosis\nNephropathy\nPost-GJ tube insertion on 17/11/2022",
+    "diagnosis": "Cystinosis",
+    "drugs": "",
+    "ix": "",
+    "progress": "parainfluenza URI\ncough/ RN & vomiting\nno SOB\n\nelectrolytes OK",
+    "recommendation": "cut milk to 40ml/hr, supplument with IVF 50ml/hr\nObserve vomiting and fever trend",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "post transplant 8wk",
+    "diagnosis": "ANCA vasculitis \npost kidney trasnplant ",
+    "drugs": "",
+    "ix": "",
+    "progress": "graft kidney dysfunction",
+    "recommendation": "on IVF + methylpred\n?UTI on IV augmentin\nawait renal biopsy report",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "ESKD on PD\nIdiopathic panniculitis, recurrent ",
+    "diagnosis": "ESKD\nIdiopathic panniculitis, recurrent ",
+    "drugs": "",
+    "ix": "",
+    "progress": "Epigastric pain\nRaised urea up to 30\n?upper GI bleeding\n",
+    "recommendation": "Home \n",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "SLE/ TTP / LN\nPoor medication compliance, self stopped all meds since march",
+    "diagnosis": "SLE/ TTP / LN flare with AKI;\nRecent COVID infection in March\nClinically admitted for cyclophosphamide infusion\n",
+    "drugs": "",
+    "ix": "CXR: showed reduce left pleural effusion\nEcho: reduce pericardial effusion",
+    "progress": "Clinically admitted for cyclophosphamide infusion\nClaim good drug compliance the past week (on anti-HT, pred 20mg BD, hydroxychloroquine, MMF)\nNoted weight gain 3kg and significant fluid retention \nAlso rising of Cr up to 80 -> 110\nFor regular lasix for 1 day\nreview tomorrow for CTX",
+    "recommendation": "For regular lasix for 1 day\nreview tomorrow for CTX\n",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Dysplastic kidney\nPost LDRT \nCMV reactivation ",
+    "diagnosis": "Dysplastic kidney\nPost LDRT \nCMV reactivation ",
+    "drugs": "",
+    "ix": "",
+    "progress": "1. CMV reactivation \nOff Valganciclovir Feb 2022\nFound CMV reactivation up to 6 x10^5\nStarted on ganciclovir on 22/4/22, latest CMV PCR 10^2\nDecreasing neutrophil count 20/5 \n\n2. Titration of Tacrolimus dosage\nStart everolimus 29/4\n\n3. E.Coli UTI, blood C/ST no growth \nClinically well\nTo complete 10days antibiotics \n",
+    "recommendation": "Continue Ganciclovir, monitor white cell count \nPlan G-CSF if ANC <1.0 \nMeropenem till 22/5 ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "CAKUT, ESKD on HD ",
+    "diagnosis": "CAKUT, ESKD on HD \nE.Coli UTI ",
+    "drugs": "",
+    "ix": "",
+    "progress": "breakthrough UTI\non AUgmentin",
+    "recommendation": "HL between HDF",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Denys Drash syndrome \nPost DDT\nHx of CMV disease ",
+    "diagnosis": "Denys Drash syndrome \nCMV reactivation \n",
+    "drugs": "",
+    "ix": "",
+    "progress": "Fever since 8/11 with tonsillits noted, fever down ",
+    "recommendation": "on HL ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "FN1 nephropathy\nPost DDT 15 weeks",
+    "diagnosis": "FN1 nephropathy\nPost DDT 22/4/22, poor graft function Cr ~130",
+    "drugs": "",
+    "ix": "",
+    "progress": "impaired graft function\nBKVN\n\nCr improved after IVF, off IVF today ",
+    "recommendation": "will recheck RFT mane ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "ARPKD on HD",
+    "diagnosis": "ARPKD on HD\nFever of unknown origin",
+    "drugs": "",
+    "ix": "",
+    "progress": "3rd episode of fever of unknown origin with high inflammatory markers\nOn tazocin\nPending PET-CT 4/5/22\n\nClinically well, remained afebrile",
+    "recommendation": "Continue Tazocin over weekend and PH\nPending PET-CT 4/5/22",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "SRNS",
+    "diagnosis": "SRNS",
+    "drugs": "",
+    "ix": "",
+    "progress": "C admitted for 24 hour ABPM",
+    "recommendation": "HL for 24 hour ABPM, home mane",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Dysplastic right kidney on HD\nPortal hypertension\nDepression",
+    "diagnosis": "Dysplastic right kidney on HD\nPortal hypertension\nDepression",
+    "drugs": "IV meropenem, vancomycin",
+    "ix": "\n",
+    "progress": "ESBL Salmonella GE, now D7 illness\nPrevious suspected HD catheter tunnel site sepsis due to chest wall pain but USG normal",
+    "recommendation": "Continue IV meropenem for ESBL Salmonella GE \nAwait vancomycin level, plan to off vancomycin if blood C/ST no growth on 7/1/23",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Laparoscopic right para-tubal cystectomy + PD catheter removal on 1/12/2022",
+    "diagnosis": "Congenital nephrotic syndrome, ESKD on HD",
+    "drugs": "",
+    "ix": "",
+    "progress": "Epigastric pain and wound pain, on regular IV Paracetamol and IV Nexium\nResumed feeding on POD1, well tolerated",
+    "recommendation": "Next HD on Sat",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Alport syndrome \nESKD on PD \n",
+    "diagnosis": "Alport syndrome on PD \n",
+    "drugs": "",
+    "ix": "",
+    "progress": "admitted for yearly assessment \nFound fluid overload 4L+ \nNow back to dry weight \nABPM on Friday then plan home on Sat ",
+    "recommendation": "Plan home on Sat",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "CAKUT, anterior urethral value postop. bilateral VUR\nESKD on PD ",
+    "diagnosis": "CAKUT, anterior urethral value postop. bilateral VUR\nESKD on PD \nFever D2",
+    "drugs": "",
+    "ix": "",
+    "progress": "Fever since 7/9 up to 39 \nNo apparent localising symptoms \nRAT -ve, COVID PCR -ve \nHigh CBC WBC 19 ANC predominant CRP elevated 80\nPDF WBC 9 \nUrine multitix -ve, pending culture\nEmpirically started on IV Augmentin \nFever seems downtrend, remained clinically active \n",
+    "recommendation": "Monitor fever \nRepeat COVID PCR on 10/9, off airborne isolation if -ve \nContinue Augmentin",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "SRNS, frequent relapse\nThis episode post-Biontech 3rd dose ",
+    "diagnosis": "SRNS, frequent relapse\n",
+    "drugs": "",
+    "ix": "",
+    "progress": "On Pred, FK, MMF ",
+    "recommendation": "Monitor response to immunosuppressants",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "End stage kidney disease\nTRPC-6 GN \nHistory of PRES presented with confusion & GTC on 02/06 requiring Labetalol infusion \nPD cath insertion 16/06/2022",
+    "diagnosis": "End stage kidney disease\nunderlying ?MPGN \nhistory of PRES presented with confusion & GTC on 02/06\n",
+    "drugs": "amlodipine\nramipril ",
+    "ix": "",
+    "progress": "Neurologically stable on Keppra\nBP control satisfactory on Ramipril and Amlodipine\nno IPD\nPD cath insertion 16/06/2022\nStarted PD POD12 , bridged with HD \nEpigastric pain during last bag dwell \nSymptoms improved after drainage \n\n",
+    "recommendation": "continue PD training",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "PLCE SRNS, ESKD on HD",
+    "diagnosis": "PLCE SRNS, ESKD on HD",
+    "drugs": "",
+    "ix": "",
+    "progress": "PD catheter insertion on 15/12/2022, POD 1\nClinically stable",
+    "recommendation": "home ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Newly diagnosed genetically confirmed PH1",
+    "diagnosis": "Newly diagnosed genetically confirmed PH1",
+    "drugs": ".",
+    "ix": ".",
+    "progress": "Started on pyridoxine & K citrate since 21/6/22\nComplained of tiptoeing gait since 22/6 afternoon, also point to left foot for pain on 24/6\nParents discontinued the medications since 23/6 afternoon",
+    "recommendation": "Withhold pyridoxine\nFor blood test and Xray ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Adm for ABPM ",
+    "diagnosis": "Interstitial nephritis \nHashimoto thyroiditis ",
+    "drugs": "",
+    "ix": "",
+    "progress": "",
+    "recommendation": "",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "fever ? URI",
+    "diagnosis": "Bartter's syndrome, FSGS\nESRF on HD \n",
+    "drugs": "empirical IV Augmentin",
+    "ix": "pending wound swab C/ST",
+    "progress": "sepsis workup done\n\nstable clinically\nnot on O2",
+    "recommendation": "IV augmentin ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "CAKUT, post-DDT 5 months\nGraft ureteric stricture, post-reimplantation 16/11/2022 (POD16)",
+    "diagnosis": "CAKUT, post-DDT 5 months",
+    "drugs": "IV Vancomycin",
+    "ix": "",
+    "progress": "Spigotted PCN on 30/11 (POD14), off foley on 1/12\nRepeated USG urinary system (2/12/2022): slightly prominent central calyces but less prominent than previous scan on 25/11, renal pelvis APPD 0.7cm\nGood urine output, RFT static, Cr 125\n\nEnterococcus faecium UTI, with dysuria\nTreated with IV Vancomycin",
+    "recommendation": "Continue IV Vancomycin\nAllow HL in between antibiotics\nWill recheck RFT mane ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Laparoscopic vesicostomy closure and gastrostomy revision on 24/11/2022 (POD8)",
+    "diagnosis": "CAKUT, CKD",
+    "drugs": "",
+    "ix": "",
+    "progress": "Resumed feeding on POD7, gradually stepping up gastrostomy feeding, well tolerated\nOn partial PN support\n\nCurrent gastrostomy feeding\nDay time: milk 45mL x 3 feeds\nNocturnal: milk drip 30mL/hr x 8 hours",
+    "recommendation": "Gradually step up gastrostomy feeding\nBlood tests on Mon",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Ischemic nephropathy \nPost DDT 3 years 6MM + 2 DQ MM\nHistory of BKVN in 2021 \nNow on Pred/CsA/Everolimus",
+    "diagnosis": "Post DDT 3 years \nBKVN\n",
+    "drugs": "",
+    "ix": "",
+    "progress": "admission for review & IVIG\n",
+    "recommendation": "home ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Post- DDT 11/9/2018\nCKD V left MCDK and right dysplastic kidney with severe right VUR, hydronephrosis and hydroureterurinoma",
+    "diagnosis": "\"C\" adm for deflux\nRecurrent UTI\nPost- DDT 11/9/2018\nCKD V left MCDK and right dysplastic kidney with severe right VUR, hydronephrosis and hydroureterurinoma",
+    "drugs": "IV meropenem ",
+    "ix": "",
+    "progress": "Deflux done 21/7, initially empirically covered with Augmentin\nDeveloped fever 22/7, changed Abx to IV Meropenem (previous urine c/st showed ESBL E Coli)\n\nFever improving trend\nCRP 25, urine culture pending \nCr rose up to 166 after admission (baseline around 120)\nGiven IVF, Cr latest improved to 128",
+    "recommendation": "Continue IV Meropenem \nAwait urine culture result ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "atypical HUS\nESKD on PD ",
+    "diagnosis": "GJ tube insertion ",
+    "drugs": "",
+    "ix": "no biochemical features of HUS relapse",
+    "progress": "GJ insertion on 10/1/23\nfull feed on 13/1 ",
+    "recommendation": "Plan home on 14/1 ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "SRNS presented in May\nOn Pred/FK \nFK in target range ",
+    "diagnosis": "SRNS ",
+    "drugs": "",
+    "ix": "",
+    "progress": "Last Albumin infusion 14/7 \nLatest albumin 18 -> 11 but otherwise no s/s of underfill, no hemoconcentration\nTransient abd pain but otherwise good perfusion, good PU ",
+    "recommendation": "Observe abd pain \nIf really have S/S of underfill, can consider albumin infusion ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "CAKUT",
+    "diagnosis": "ESKD on HD",
+    "drugs": "",
+    "ix": "",
+    "progress": "",
+    "recommendation": "on home leave for 24hr BP",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "FRSDNS ",
+    "diagnosis": "FRSDNS ",
+    "drugs": "Pred 30mg BD \nFK 1mg/ 0.5mg ",
+    "ix": "",
+    "progress": "Relapse \nUPCR 45mg/mg\nAlbumin 16 \nClinically well, perfusion sat, no abd pain, PU ok ",
+    "recommendation": "Monitor vitals/ abd pain/ PU \nAlbumin infusion if necessary ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "SRNS\nHistory of flushing/ tachycardia on Rituximab ",
+    "diagnosis": "SRNS ",
+    "drugs": "Rituximab infusion\nFK/ MMF ",
+    "ix": "",
+    "progress": "Urinary relapse \nRituximab infusion ",
+    "recommendation": "For rituximab infusion on monday ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "SLE, in remission \nherpes zoster",
+    "diagnosis": "SLE \nherpes zoster",
+    "drugs": "",
+    "ix": "",
+    "progress": "covered IV acyclovir",
+    "recommendation": "continue anti-viral",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "for review",
+    "diagnosis": "post renal transplant 6 weeks",
+    "drugs": "",
+    "ix": "",
+    "progress": "noted increase in Cr 72 --> 93\notherwise well, good urine output",
+    "recommendation": "for IV hydration tonight, recheck RFT mane",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "admit for vomitting and increased urea +Cr\nlikely side effect nitrofurantoin-> taken off before admission",
+    "diagnosis": "dysplastic kidney post transplant 9 months",
+    "drugs": "",
+    "ix": "",
+    "progress": "admit for observation\non IV hydration for 1-2 days\nso far eat well, urine output well\nno vomitting",
+    "recommendation": "off IVF 19/8/22 and observe over night\nplan home mane",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "SRNS (preliminary gene result : NPHS1 gene +ve)\nHypertriglyceridemia \nHypothyroidism\nVit D deficiency ",
+    "diagnosis": "SRNS (NPHS1 gene +ve ) \nHypertriglyceridemia \n",
+    "drugs": "",
+    "ix": "",
+    "progress": "stable\nhome leave before albumin infusion",
+    "recommendation": "HL after albumin infusion",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "FRSDNS on Pred/FK/MMF \nClinical relapse with underfill \nPostrituximab infusion ~ 12 months ",
+    "diagnosis": "FRSDNS relapse ",
+    "drugs": "",
+    "ix": "",
+    "progress": "P60QD D11 no remission \nGiven albumin infusion as clinically underfill \nSo far clinically stable with normal vitals/ no abdominal pain/ perfusion ok/ UO ok \nUrine albustix 3+ \nAlbumin 17 -> 21 \n",
+    "recommendation": "Continue P60QD till remission\nPlan for rituximab infusion after remission \nMonitor perfusion/ abdominal pain/IO ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Nephropathic cystinosis \nFanconi syndrome/ Nephrogenic DI\nCKD stage 5 \nAcute on chronic renal impairment ",
+    "diagnosis": "Nephropathic cystinosis \nFanconi syndrome/ Nephrogenic DI\nCKD stage 5 \nAcute on chronic renal impairment ",
+    "drugs": "",
+    "ix": "",
+    "progress": "Admitted x HD line insertion \nInserted on 9/12 \n",
+    "recommendation": "HL",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "C1q nephropathy \non FK/MMF \nRecent relapse ",
+    "diagnosis": "C1q nephropathy \nFor Rituximab infusion ",
+    "drugs": "",
+    "ix": "",
+    "progress": "2nd dose of 6th course Rituixmab infusion",
+    "recommendation": "home today\nFU GNC 2/52",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "?MCTD on MMF and pred",
+    "diagnosis": "?MCTD\nadmit for shingles",
+    "drugs": "IV acyclovir\npred continue\nwithold MMF",
+    "ix": "",
+    "progress": "shingles\nafebrile\nstable",
+    "recommendation": "keep observe",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "clincal admission for ABPM",
+    "diagnosis": " kidney transplant",
+    "drugs": "",
+    "ix": "",
+    "progress": "",
+    "recommendation": "on HL",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "day assessment",
+    "diagnosis": "stage V CKD",
+    "drugs": "",
+    "ix": "",
+    "progress": "",
+    "recommendation": "home today",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "ESKD on PD",
+    "diagnosis": "Piepoint syndrome",
+    "drugs": "",
+    "ix": "",
+    "progress": "incidental finding of moderate pericardial effusion \nno tamponade effect\nsuggested by cardiac team to increase fluid removal\n\nintensified PD, BW 20.1-> 18.5kg\n\nreviewed by cardiac team today, pending formal echo report",
+    "recommendation": "PD back to regimen 12 hours 10 cycles\nawait cardiac team ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Scleroderma\nstage IIIB CKD\nhypertension ",
+    "diagnosis": "Scleroderma\nstage IIIB CKD\nhypertension ",
+    "drugs": "felodipine 10mg BD\nminoxidil 5mg daily\nBisoprolol 5mg at noon \n",
+    "ix": "",
+    "progress": "admitted PICU for HT urgency \ntransferred back to 6W on 07/10\nBP ~130-140/~90-100",
+    "recommendation": "if BP persistently >=150-160, can give stat dose minoxidil 2.5mg once for response\nPlan home on Sat if stable ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "ANCA-GN",
+    "diagnosis": "ANCA- GN \n",
+    "drugs": "",
+    "ix": "",
+    "progress": "completed 5 doses IVMP \n#1 rituximab & cyclophosphamide\n\nimproving RFT and proteinuria",
+    "recommendation": "HL on Saturday if stable\n",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "IgA nephropathy\nPost-DDT 23/8/2019\nPolycythaemia, ?post-transplant erythrocytosis",
+    "diagnosis": "IgA nephropathy\nPost-DDT 23/8/2019\nPolycythaemia, ?posttransplant erythrocytosis",
+    "drugs": "Pred, CSA, Everolimus\nAmlodipine",
+    "ix": "",
+    "progress": "Clinically admitted for polycythaemia, ?post-transplant erythrocytosis\nHb 19.1->18.3->18.1, Hct 0.579, RBC 6.55\nClinically stable\nBooked USG abdomen and pelvis to rule out intraabdominal mass/tumour\nConsulted Haematologist, pending assessment",
+    "recommendation": "Await Haematologist assessment\nEncourage fluid intake",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Resumed PD since late Nov, noted suboptimal UF since early Dec",
+    "diagnosis": "ARPKD, ESKD\nHepatic fibrosis, Caroli's syndrome\nPost-total splenectomy",
+    "drugs": "",
+    "ix": "",
+    "progress": "Clinically admitted for review\nLowish UF 50-80mL\nClinically no edema\nAdequacy test satisfactory\n\nEldest sister got COVID-19 infection today\nPatient prefers to stay in ward over the weekend (asymptomatic except temp 37.7`C, RAT negative, PCR pending)",
+    "recommendation": "Same PD regime\nStay over weekend\nKept in single room (PCR and RAT as per ICN)",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "CAKUT\nneurogenic bladder\npost DDT\nhistory graft ureter stricture, reimplantation in 07/2019\non CIC via mitrofanoff, poor compliance \nhistory S.auresus UTI (catheter related)",
+    "diagnosis": "graft dysfunction \n",
+    "drugs": "",
+    "ix": "",
+    "progress": "fever with GI upset; AKI\ncovered IV meorpenem for ? UTI, with continuous bladder drainage\nnow fever down >24 hr",
+    "recommendation": "continue antibiotics till urine C/ST back & review\n\n",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "PUO, facial rash and persistent oral ulcer <1 week",
+    "diagnosis": "lupus nephritis",
+    "drugs": "",
+    "ix": "",
+    "progress": "given IVMP followed by oral pred and MMF\nfever down \nAKI gradually improved\nANC rising from ~0.5 to ~3\n\npost renal biopsy D0\n",
+    "recommendation": "Home",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "EBF3 mutation\nreflux nephropathy ESKD",
+    "diagnosis": "dehydration ",
+    "drugs": "",
+    "ix": "",
+    "progress": "poor appetite after recnet URI\nweight loss of 2kg in 4 days\ngiven IVF\nregained BW",
+    "recommendation": "home mane",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "incidental finding of ESKD\nPD catheter inserted on 17/11",
+    "diagnosis": "ESKD",
+    "drugs": "",
+    "ix": "",
+    "progress": "started PD since 1/12/2022\nStarted new PD machine (Harmony) since 15/12",
+    "recommendation": "Continue PD \nAllow day leave prn . ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "CKD with Dysplastic kidneys / cystic kidney",
+    "diagnosis": "CKD with Dysplastic kidneys / cystic kidney\nAcute bronchiolitis",
+    "drugs": "Ventolin 2mg neb Q1H\nHydrocortisone IV\nAugmentin IV",
+    "ix": "Elevated WBC and ANC\nBlood gas no acidosis\nCRP and blood culture pending\nCXR hyperinflated chest, no definite consolidation",
+    "progress": "Cough and SOB since yesterday, low grade temp 37.6`C\nAudible wheeze, borderline SpO2 92% in RA upon admission\nResponsive to neb Ventolin\nAlso started IV Hydrocortisone and empirical IV Augmentin\nKept NPO except meds, withhold gastrostomy feeding, on maintenance IVF\n\nCurrently on Q1H neb Ventolin\nSpO2 100% on 2L/min O2 via face mask\nRespiratory distress much improved",
+    "recommendation": "Reassess at ~7pm, can reduce Ventolin frequency if respiratory condition improves\nLow threshold to consult PICU for respiratory support if significant respiratory distress",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "HSP nephritis, on enalapril ",
+    "diagnosis": "HSP nephritis, on enalapril ",
+    "drugs": "",
+    "ix": "",
+    "progress": "",
+    "recommendation": "on HL for 24 hour BP monitoring ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "newly diagnosed ESKD presented with hypertension and short stature ",
+    "diagnosis": "newly diagnosed ESKD ",
+    "drugs": "",
+    "ix": "",
+    "progress": "ESKD on temp HD\nPD catheter insertion on 16/12\n\nClinically stable",
+    "recommendation": "same",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "SRNS/SDNS, MCD",
+    "diagnosis": "Steroid dependent nephrotic syndrome, minimal change disease",
+    "drugs": "Pred 30mg BD\nFK 1.5mg BD",
+    "ix": "",
+    "progress": "Nephrotic relapse precipitated by EV/RV URTI\nGiven 20% albumin infusion with laxis upon admission last week\nStepped up to P60 since 16/12, not yet achieve remission\nClinically well and stable, urine output satisfactory",
+    "recommendation": "HL till 25/12",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "IgA nephropathy + suspected nutcracker syndrome \nAKI likely due to diarrhea ",
+    "diagnosis": "IgA nephropathy \nAKI ",
+    "drugs": "",
+    "ix": "",
+    "progress": "put on IVF rehydraion \nWill recheck blood x RFT mane ",
+    "recommendation": "Observe for u/o and increased creatinine ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "?TINU with renal impairment and history of anterior uveitis",
+    "diagnosis": "?TINU with renal impairment and history of anterior uveitis",
+    "drugs": "",
+    "ix": "",
+    "progress": "Family refused renal biopsy\nClinically admitted for starting Prednisolone\nMantoux test done today, CXR unremarkable\nBP on high side , SBP 130-140, to observe trend\n\nPlan:\nHL till Sunday, to start Prednisolone if MT2 negative\n24hr ABPM when back from HL",
+    "recommendation": "HL till Sunday, to start Prednisolone if MT2 negative\n24hr ABPM when back from HL",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Tethered cord syndrome with recurrent UTI",
+    "diagnosis": "ESBL UTI ",
+    "drugs": "IV amikacin",
+    "ix": "",
+    "progress": "Recent ESBL E coli UTI ",
+    "recommendation": "HL after IV amikacin ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Case of CAKUT with living related kidnye transplant done in 8/12/2020",
+    "diagnosis": "Raised Creatinine ",
+    "drugs": "",
+    "ix": "",
+    "progress": "raised creatinine, improved after IVF ",
+    "recommendation": "Home leave until 15/1",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "Case of CKD 3b Senior loken syndrome ",
+    "diagnosis": "Case of CKD 3b Senior loken syndrome ",
+    "drugs": "",
+    "ix": "",
+    "progress": "for ECHO ",
+    "recommendation": "home ",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "ADPKD",
+    "diagnosis": "ADPKD",
+    "drugs": "",
+    "ix": "",
+    "progress": "",
+    "recommendation": "HL for ABPM",
+    "specialtyCode": "REN"
+  },
+  {
+    "background": "ESKD ",
+    "diagnosis": "congenital nephrotic Syndrome\nESKD",
+    "drugs": "",
+    "ix": "",
+    "progress": "",
+    "recommendation": "HL between HDF ",
+    "specialtyCode": "REN"
+  }
+]

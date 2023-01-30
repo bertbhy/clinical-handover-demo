@@ -1,0 +1,965 @@
+[
+    {
+      "background": "left basal ganglia GCT\nbehavioural problem \nsocial problem, signed off child, SWD as guardian",
+      "diagnosis": "left basal ganglia GCT",
+      "drugs": "vancomycin",
+      "ix": "",
+      "progress": "Back from RT in PWH\n\nRecent rhinovirus URI\nLine c/st white lumen 11/7: staphy haemolyticus\nOn D4 vancomycin\nRepeated c/st NG so far\nCurrently afebrile, no coryzal symptoms",
+      "recommendation": "To PWH on 18/7 for RT\ncontinue vancomycin, plan for total 7 day if repeated c/st no growth ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Resection of the bone tumor 3/2022\nLung met resection 17/5/22 \nL interthoracoscapular amputation + neuroplasty on 2/8/2022\n",
+      "diagnosis": "Left proximal humerus osteosarcoma with lung metastasis & local recurrence",
+      "drugs": "Cabozantnib 40mg 4 days/week (Tue, Thur, Sat, Sun)\nMetoprolol\nAnalgesics (amitriptyline 10mg nocte x 1/52, pregabalin 75mg nocte)",
+      "ix": "",
+      "progress": "Admitted for cycle 2 topotecan + cyclophosphamide on 26/12-30/12. Uneventful.\nPain team reviewed: no more phantom limb pain. Plan wean amitriptyline to 10mg nocte x 1/52 then off, then gradually tail down pregabalin by our team",
+      "recommendation": "Home after chemotherapy with GCSF",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "relapsed neuroblastoma (femur), irinotecan+TMZ x2 cycles, then plan to enter 3f8 trial",
+      "diagnosis": "relapsed neuroblastoma (femur)",
+      "drugs": "",
+      "ix": "",
+      "progress": " course 6 D5 3F8",
+      "recommendation": "Home on 7/10 after 3F8 \nDue for course 7 3F8 on 31/10/2022\nQMH RT for focal RT at right proximal femur  (aim ~week of 21/11/2022 after course 7 3F8 & evaluation)",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Stage 4 relapsed refractory neuroblastoma with bone, BM, CNS involvement\n\nCycle 1 topo/cyclo 12/7/2022\nOff lorlatinib since 8/8 due to persistent low count",
+      "diagnosis": "Relapse/ refractory stage 4 Neuroblastoma",
+      "drugs": "PCA morphine 40mcg/kg/hr, bolus 40mcg/kg/dose\nMidazolam drip at 0.07mg/kg/hr at night, 0.06mg/kg/hr in daytime\nZofran\nBenadryl prn\nMaxolon prn\nTransamin\nNexium",
+      "ix": "",
+      "progress": "Progressive disease with increased left maxillary & left jaw mass, partial left nostril airway obstruction & left nasolacrimal duct obstruction, completed palliative RT in QMH on 22-26/8\n\nOn and off haematuria seen in urinary catheter, partially relieved with platelet transfusion\n\nPain control by PCA morphine, now on 40mcg/kg/hr, bolus 40mcg/kg/dose \nMidazolam drip at 0.06mg/kg/hr (daytime) 0.07mg/kg/hr (night time) may titrate up if irritable\n\nNeutropenic fever on 22/9\nEmpirical start on IV Meropenem \nCSU C/ST T/F",
+      "recommendation": "Optimize pain control, can step up PCA morphine & midazolam drip as required\nPlatelet & PC transfusion prn \nNo need regular blood taking",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "diagnosed in 2/2022. left salpinooophrectomy + biopsy at pwh OG. \nextracranial GCT 2018 protocol (JEBX4)",
+      "diagnosis": "left ovarian yolk sac tumour, stage 2",
+      "drugs": "",
+      "ix": "",
+      "progress": "picc inserted on 25/3",
+      "recommendation": "continue cycle 1 JEB till 27/3\nblood taking on 27/3",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Left distal femur osteosarcoma with lung metastasis, 94.1% chemonecrosis\n\nWeek 26 HDMTX  AP chemo given on 18/10/2022\n\nRecurrent UTI, on nitrofurantoin prophylaxis, stopped due to possible interaction with MTX\n\nOne episode of incontinence after HDMTX infusion on 20/10, no more recurrence so far ",
+      "diagnosis": "Left distal femur osteosarcoma with lung metastasis\nCOVID infection in mid Sept\nRecurrent UTI + ?Urinary incontinence",
+      "drugs": "",
+      "ix": "",
+      "progress": "Week 27 HDMTX",
+      "recommendation": "Chemo in progress\nMTX 24/48 level \nNo need MTX 6 hr level as end of treatment ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "post RE enucleation, post- #6 CEV\nhx of E Coli UTI in 2/2021\n",
+      "diagnosis": "unilateral RE group E retinoblastoma\nhistory of septic shock ",
+      "drugs": "IV meropenem ",
+      "ix": "",
+      "progress": "ESBL E Coli septicemia, IV tazocin started on 7/4/2022, -> IV meropenem on 8/4/2022, repeated culture no growth. Stable. No fever after 8/4/2022",
+      "recommendation": "Plan continue meropenem for total 10 days (till 17/4/2022)",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "R distal femur osteosarcoma with lung met",
+      "diagnosis": "Osteosarcoma, with lung met",
+      "drugs": "",
+      "ix": "",
+      "progress": "Bil VATS performed on 25/4/22 for removal of lung metastasis\nL chest drain removed on 28/4/22 and R chest drain removed on 29/4/22\nOn chest physio\nPain well controlled\nStable in RA",
+      "recommendation": "Plan home on 30/4/2022 if CTS fit for discharge",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Left submandibular synovial sarcoma with resection done in private. Resection margin not clear. For chemo (PAZNTIS ARST 1321-rigmen A with panzopanib)-ID and RT",
+      "diagnosis": "Left submandibular synovial sarcoma",
+      "drugs": "",
+      "ix": "",
+      "progress": "Week 19 ifosfamide + doxorubicin started on 30/6\n",
+      "recommendation": "Continue chemotherapy\nMonitor electrolytes daily (ifosfamide)",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "R distal tibia osteosarcoma with lung met\nOT done\nChemo according to HKPHOSG Osteosarcoma protocol",
+      "diagnosis": "Osteosarcoma",
+      "drugs": "",
+      "ix": "",
+      "progress": "completed week 27 MTX",
+      "recommendation": "Monitor MTX level, LFT",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Bilateral lung wedge resection done on 15/7/2022 for lung metastasis\nprogressive disease with malignant pleural effusion",
+      "diagnosis": "Left distal femur osteosarcoma, post AKA, lung met\nUnderlying Rothmund Thomson syndrome\nprogressive disease despite IE with TKI, to GEMDOC since 2/9/2022",
+      "drugs": "",
+      "ix": "",
+      "progress": "progressive pleural effusion, completed D8 GEMDOC 9/9/2022\n\ndiscussed with IR Dr K Fung, no urgency for pleural catheter insertion, to observe Sx first, slot for pleural catheter insertion reserved on 13/9",
+      "recommendation": "monitor CXR, blood glucose and urine glucose\nplan HL till saturday then till monday to confirm if proceed pleural catheter insertion on 13/9/2022",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "R frontoethmoid Ewing's sarcoma\nCompleted consolidation chemotherapy and RT.\nOral mucositis resolved.",
+      "diagnosis": "Ewing's sarcoma",
+      "drugs": "TPN",
+      "ix": "Blood culture so far no growth\nOral swab HSV1 +ve\nMSU no growth\n",
+      "progress": "complains of loose stool since last night after milk intake. No blood/ mucous in stool. no fever/ vomiting.\nStool culture saved T/F. stool x reducing substances T/F. Stool x CD pcR negative.\nOn TPN now in view of diarrhea after milk intake. Not yet tolerating solid foods.",
+      "recommendation": "",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Stage 4 Rhabdomyosarcoma, origin likely pelvic, with abdominal metastasis. \n",
+      "diagnosis": "Stage 4 Rhabdomyosarcoma, origin likely pelvic",
+      "drugs": "",
+      "ix": "",
+      "progress": "Admitted for week 31 VIE",
+      "recommendation": "Continue chemotherapy over weekend",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "refractory Ca ovary, not responsive to chemo\nDNACPR signed",
+      "diagnosis": "Refractory Ca ovary, DNACPR",
+      "drugs": "",
+      "ix": "",
+      "progress": "Admitted for severe abdominal pain, increased vomiting \n? IO, Urgent CT A+P performed, RT inserted, bile stained aspirate yielded\nStarted on IVF, stopped all oral meds\nOn Morphine PCA, Fentanyl patch (plan wean off to IV morphine)\nTo continue pain relief with morphine PCA ",
+      "recommendation": "Optimise pain relief +/- TPN over weekend depending on clinical status \nRT inserted \n",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "osteosarcoma as charted above, poor tumor necrosis, lung metastasis. Finished 2 courses of GEMOX\nRight leg wound with debridement performed. Tissue culture and wound swab - no growth.",
+      "diagnosis": "Relapsed osteosarcoma, first over left humerus, then right proximal tibia. Finished OT and 2 courses of GEMOX. \n",
+      "drugs": "",
+      "ix": "CT thorax 10/6",
+      "progress": "continue IV tazocin till 14/5.\nPlan resume next course chemotherapy (gemcitbine-docetaxel course 4) on coming Monday.",
+      "recommendation": "",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Stage 4 neuroblastoma\nPBSCT done 25/7/2022\nRT in 10-27/10/2022\nContinued on immunotherapy\n",
+      "diagnosis": "Stage 4 neuroblastoma \nAutologous HSCT, followed by immunotherapy ",
+      "drugs": "Meropenem",
+      "ix": "",
+      "progress": "Admitted for FN ?UTI. MSU: Serratia, Klebsiella\nOn meropenem\nInterim MRI and PET: good tumour response. \nPlan isotretinoin when count recovered. \n",
+      "recommendation": "Plan home if fever down for 1-2 days and good oral intake.\nR/A next Monday for count check and BMA",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Hx of liver, skin, gut GVHD\nHx of disseminated Nocardia infection, on lifelong doxycycline\nHx of pericardial effusion\n\nHx of persistent mixed chimerism, given incremental dose of DLI x2 ( 5/9 & 13/9), latest 100% donor \n\nOn isavuconazole for previous trichosporon chest infection & antifungal prophylaxis and lifelong doxycyline for hx of nocardia \nHx of CMV, EBV, HHV6 viremia, asymptomatic BK viuria.In remission\n",
+      "diagnosis": "Relapsed/ refractory stage 4 neuroblastoma\nHaploHSCT 10/8/2022, ANC engraftment D+10, latest chimerism  99%\nHypothyroidism ",
+      "drugs": "Isavuzonazole (for Hx of trichosoporon fungema/ pneumonia)\nDoxycycline (lifelong prophylaxis for hx of nocardia)\nSeptrin prophylaxis \nLevothyroxine\nRuxolitinib",
+      "ix": "",
+      "progress": "1. Paralytic ileus/ SBBO/ poor feeding tolerance \nCompleted empirical SBBO Mx with gentamicin + metronidazole 3-11/1, then rifaximin 11-16/1\nKept NPO on TPN, abdominal pain improving \nFollow through 19/1: no fluoroscopic evidence of high grade obstruction/ delay transit of small bowels \n\nSuggested by GI team: \n- Try small amount of feeding \n- Blood x CBCd/c, LRFT, CaPO4, TG, Mg, H'stix, VBG daily over the weekend and CNY holidays \n- Consider cyclical abx on 30/1/23 (await discussion with micbi) \n\n2. Deranged LFT, likely multifactorial (disease, drug, infection, etc.)\n- Ductal enzyme predominance. For monitoring ?downtrending recently (On Smof/Omegavan)\n- Metabolic workup -ve. Hep serology -ve. Anti-smooth muscle +ve \n- MRCP appt (look for HBP/ PSC pathology) 08/03/23\n- Supportive Tx mainly",
+      "recommendation": "If severe sepsis, start IV Tazocin + Amikacin after sepsis workup + reconsult micbi team (See micbi progress notes in CMS 03/01 and 19/01)\nTry small amount of feeding \nBlood x CBCd/c, LRFT, CaPO4, TG, Mg, H'stix, VBG daily over the weekend and CNY holidays ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Current stage of Tx: dinutixumab, GM-CSF, post tranplant, cycle 5 (last course) on 11/4. Previously admitted for shingles, treated with Acyclovir / Galacyclovir for 10 days. No new lesions\n\n",
+      "diagnosis": "relapsed stage 4 neuroblastoma",
+      "drugs": "",
+      "ix": "",
+      "progress": "On Cycle 5 of Dinutuximab, GM-CSF \nOccasional kick of low grade fever but resolved after rechecking\nPlan for septic workup if persistent fever + IV Abx\n",
+      "recommendation": "Home when complete chemo regime\n",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "RLL VATS lobectomy on 28/1/2022\nStarted on PAZNTIS ARST 1321 protocol\nWeek 19 liposomal doxorubixin given on 11/7\nPazopanib induced hypothyroidism",
+      "diagnosis": "right lung relapsed mesenchymal chondrosarcoma",
+      "drugs": "Levofloxacin\nSeptrin\nThyroxine",
+      "ix": "CT thorax 19/8\n- Status post resection of left chest wall chondrosarcoma and right lower lobe lobectomy. No CT evidence of local tumour recurrence.\n- Interval increase in extent of right pneumothorax without evidence of tension pneumothorax.\n- Previously noted three new lung nodules in left lung are resolved. \n- Other multiple tiny nodules up to 4 mm, some calcified, scattered in both lungs and along pleural surface are similar.\n- Multiple subcentimeter hypodense lesions in the liver and spleen are similar and non-specific. Two new tiny hypoenhancing foci in right and left renal cortex respectively. Underlying hepatosplenic microabscesses with new lesions in kidneys has to be considered in this clinical context.\n- Previously noted mural thickening of the colon and ileum is resolved.\n- Gastric hiatus hernia.",
+      "progress": "Incidental finding of right PTX on CT during last admission in late July for neutropenic fever\nNo resp symptoms or chest pain all along\nProgress CT thorax showed interval increase in extent of right PTX \nPazopanib withheld\n\nImage guided pigtail insertion to right chest performed on 23/8\nR chest drain showed swinging but not much bubbling, applied 5cm H2O suction \nPneumothorax resolving but CXR still showed thin rim of R pneumothorax\n\nConsulted CTS\n- Off suction on 26/8 as no more air leak\n- Not for pleurodesis now, if recurrent right PTX, to reconsult for need of pleurodesis\n- Off pigtail on Monday if CXR not increasing in size over weekend\nNo more swinging noted after off suction on 26/8\n\nHepatosplenic microabscess on oral levofloxacin",
+      "recommendation": "CXR on Monday\nOff pigtail on Monday if CXR not increasing in size over weekend",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Partial ostectomy of R tibia and fibula with right total knee replacement done on 5/7\n\nBorderline thrombocytopenia\n- parents' platelet normal\n- anti-platelet antibody on 11/3/22:  +ve",
+      "diagnosis": "Localized right tibial osteosarcoma, no lung metastasis",
+      "drugs": "",
+      "ix": "",
+      "progress": "Admitted for week 27 HDMTX\nUneventful",
+      "recommendation": "Home if MTX level <0.15",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Fever, settled\nNo port-a-cath care for sometime because of COVID, then port-a-cath blocked. Pending removal of port on 1/4",
+      "diagnosis": "relapsed stage 4 neuroblastoma",
+      "drugs": "",
+      "ix": "",
+      "progress": "Continue Abx. port-a-cath removal today not done",
+      "recommendation": "Book EOT on 3/4 for removal of Port-a-cath for 4/4 ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Suprasellar germ cell tumor, hypopituitarism, Hx of carboplatin-induced hyponatremia ",
+      "diagnosis": "Suprasellar germ cell tumor",
+      "drugs": "IV Tazocin",
+      "ix": "",
+      "progress": "Admitted x non-neutropenic fever\nCentral DI on DDAVP. \nPanhypopituitarism on thyroxine, fludrocortisone, NaCl\nStep up to stress dose hydrocortisone due to fever\nFever down after admission, blood culture T/F ",
+      "recommendation": "Continue Tazocin\nPlan off Tazocin and to oral antibiotics if blood culture at 48 hour still T/F",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Modified radical neck dissection & hickman line insertion 30/5\n- LNs biopsy: only 1 LN +ve out of 86 sampled, focally close margin < 1mm\nSlipped out Hickman, reinserted 6/2022\nSalmonella GE + bacteremia 5/6, completed 2/52 antibiotics \nHx of mucositis since 9/8/2022, poor feeding, off R/T feeding since 31/12/22\nCompleted RT on 19/8/2022\nCycle 12 irinotecan + temozolomiede given on 10/1",
+      "diagnosis": "Forehead alveolar rhabdomyosarcoma with right cervical LN relapse, first diagnosis in 12/2020",
+      "drugs": "Sirolimus ",
+      "ix": "",
+      "progress": "1. Cycle 12 IT on 10-14/1/2023, nausea and vomiting on Kytril, emend, dexamethasone \n2. Increased Sirolimus dose from 1mg to 1.5mg once per day since 3/1, latest sirlimus level satisfactory ",
+      "recommendation": "1. Completed 12 cycles of IT on 15/1/2023\n2. MRI neck 20/1/2023 (under GA)  and PET-CT scan QEH in 2/2023",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "BE group D retinoblastoma with left eye total retinal detachment at 19months of life (1/2014)\nGermline mutation of RB1\nBE enucleation done\n\nCompleted 9 cycles of IV CEV chemotherapy and 3 cycles of IAC with melphalan and topotecan in 2014; \nLE enucleation was performed on 11/6/2014 ;\nReceived 5 additional IAC (completed by Sept 2015) & 6 intravitreal chemotherapy + EBRT in USA Wills eye, eventually NLP, RE enucleation was done in 1/2016; Pathology in USA showed no residual tumour remain in enucleated specimen\nMRI Orbit 1/2022: No local recurrence or intracranial metastasis demonstrated. \n\nNoted mild dull R knee pain from 10/2021 to 1/2022 \nSubsequently confirmed relapse\n\nTreated according to COG ARET0321 protocol (intensive multi-modality therapy for extra-ocular retinoblastoma)\nStem cell harvest for relapse metastatic retinoblastoma on 13/2/2022\nCycle 1 chemo on 15-17/2/22\nCycle 2 chemo on 8/3/2022  , SFI PEG-GCSF 2.5 mg given 11/3/22\nCycle 3 chemo on 31/3/2022 - 7/4/2022, SC GCSF daily 3-6/4\nCycle 4 chemo on 29/4/2022\n\"C\" admitted for 2nd course dinutuximab",
+      "diagnosis": "Relapsed metastatic retinoblastoma",
+      "drugs": "",
+      "ix": "",
+      "progress": "Completed dinutuximab\nR/A on 16/9 due to excessive tiredness and SOB, 1 kick of low grade fever at home. No fever on admission. Vitals stable. Chest exam normal. CXR clear. Blood count stable. GCS full",
+      "recommendation": "Watch out for neurotoxicity of immunotherapy. For CT brain if any change in conscious state.\nSepsis workup + start IV Tazocin if any fever\n\n",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "BCOR sarcoma of left foot with extensive metastasis",
+      "diagnosis": "BCOR sarcoma of left foot with extensive metastasis\nUnderlying hypothyroidism and adrenal insufficiency",
+      "drugs": "IV hydrocortisone\nThyroxine\nSeptrin\nAnd other supportive meds",
+      "ix": "",
+      "progress": "Admitted for consolidation #3 IE (80%)\nStarted stress dose steroid for adrenal insufficiency",
+      "recommendation": "Continue chemotherapy over weekends\nMonitor I/O and  urine RBC",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Started on SIOPEN HR NBL 2014 protocol\nChemo given on 8/2-21/4\nOT done on 27/5/2022\nAutologous HSCT on 20/6/2022 \n",
+      "diagnosis": "Stage 4 neuroblastoma, MYCN non-amplified",
+      "drugs": "",
+      "ix": "",
+      "progress": "Came back for vomiting + followed by mild headache \nCTB unremarkable\nNo more vomiting on D1 - 2 of admission \nAppetite well maintained",
+      "recommendation": "Father confirmed COVID on 10/12\nHome on sunday / as soon as father evacuated to CIF \nR/A Thurs 15/12 x bloods ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Stage 4 Neuroblastoma with multiple mets, completed all treatment as per SIOPEN-HR NB on 27/6/2020, prev N-MYC amplified\nCompleted RT ",
+      "diagnosis": "CNS relapse neuroblastoma\nHaploidentical PBSCT (elder brother) on 2/12/22 (D+27)\nCycle 1 Dinutuximab + IL-2 + GM-CSF 6-11/12/2022",
+      "drugs": "Micafungin prophylaxis 2x/week\nGanciclovir\nSeptrin\nLactobacillus",
+      "ix": "",
+      "progress": "Haploidentical PBSCT (elder brother) 2/12/2022\nCycle 1 Dinutuximab (6-11/12/2022)\nCycle 2 Dinutuximab (6-11/1/2023)\n\nActive problems: \n1. CMV reactivation\n- Memory DLI 21/12, 29/12/2022, Fresh DLI 6x10^6/kg CD3+ given on 5/1/23, memory DLI on 13/1/23\n- On Ganciclovir\n- Latest CMV PCR -ve x 1 on 19/1/2023\n- Plan to valganciclovir if  CMV PCR -ve x 2\n\n2. HHV6 viremia\n- Latest HHV6 PCR -ve x 2\n\n3. Poor oral intake, Hx of mucositis\n- Off TPN on 19/1/2023\n- BW gain fair, appetite improving",
+      "recommendation": "Monitor CMV, HHV6 PCR trend\nHL between IV medication\nMonitor BW daily -> may need to consider resume TPN if poor weight gain",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Left proximal tibia resection + prosthesis reconstruction in PWH on 8/2/2022\nHDMTX Wk 26 given 9/6\n\n",
+      "diagnosis": "L proximal tibia osteosarcoma",
+      "drugs": "Meropenem",
+      "ix": "",
+      "progress": "Adm x neutropenic fever\nSepsis workup no yield so far\nOn empirical meropenem since 14/6, no fever for >48hrs\nPlan 5 days Meropenem then home with Augmentin",
+      "recommendation": "Plan Home on Sunday (5 days Meropenem) then Augmentin\nPlan start Chemo next week (count sufficient)",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Treated according to HKHOSG-PNET-CNS-2000 protocol\nNow on maintenance chemo CCV-V-V, due for cycle 4 on 7/4, withheld due to count not met. \n\n\n",
+      "diagnosis": "Average risk Cerebellar medulloblastoma, GTR, molecular group 4, MYCN amplification, no drop metastasis\nRight 6th and 7th nerve palsy",
+      "drugs": "",
+      "ix": "VZV IG T/F ",
+      "progress": "Admitted today for close contact of VZV in 4SD. No fever / rash, well in herself. Plan to proceed with chemo if count enough. ",
+      "recommendation": "Home, count inadequate\nRA 11/4",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Spinal undifferentiated round cell sarcoma, completed chemoRT in 2020, found relapse over abdominal wall.",
+      "diagnosis": "Spinal undifferentiated round cell sarcoma",
+      "drugs": "",
+      "ix": "",
+      "progress": "Admitted for cryoablation of abdominal wall lesions.\nProcedure done on 26/8. Uneventful",
+      "recommendation": "Home on Sat if wound well and pain under control",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Group 3 medulloblastoma with extensive leptomeningeal spread, near total excision on 2/5/21, completed chemoRT, tracheostomized and on GJ tube feeding. Hydrocephalus on VP shunt with recurrent over-shunting/ undershunting with adjustment of VP shunt pressure. Bilateral middle ear chronic effusion with bilateral M&G. Focal seizures on clobazam and oxcarbazepine. ",
+      "diagnosis": "Group 3 medulloblastoma",
+      "drugs": "",
+      "ix": "",
+      "progress": "Tracheostomy tube downsized from 5.0 to 4.0 uncuffed tube on 21/4/2022. Spigot exercise started",
+      "recommendation": "Spigot exercise as tolerated\nStep up PEG milk and reduce PEJ volume next week \nbone scan QEH 28/4\nhickman removal 3/5\nTracheostomy tube decannulation afterwards",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Presented with R hip discomfort & swelling for 6mths since ~5/2021\nGradually noted limping gait & right thigh paraesthesia\ninitially on HKPHOSG osteosarcoma protocol, completed 10 cycles.\nTo QMH for OT in March, transfer back for rehab + chemo",
+      "diagnosis": "Right ileum osteosarcoma",
+      "drugs": "voriconazole\nnorvasc\nthyroxine\nCentrum advance, Cyproheptadine\npentamidine\n\nw/h lenvatinib",
+      "ix": "voriconazole level on 26/10 normal\n\nspot urine x protein/cr ratio: 3.92 (26/10) → 3.30 (28/10) → 2.42 (31/10) → 2.16 (5/11) → 0.87 (11/11)\n\nLatest PET-CT for previous suspicious lesion over right sacral ala and superior pubic rami unremarkable",
+      "progress": "Completed cycle 5 OLIE \nLenvatinib induced complications, resumed at lower dose on 22/8/2022\n- Proteinuria resolving, latest urine Pr/Cr 0.87\n- HT on norvasc, off metoprolol already \n- Hypothyroidism on thyroxine\n- Immobility related osteoporosis, zometa given on 17/8\n\nHx of surgical wound infection with bacteroides fragilis, ESBL, candida, given a prolonged course of tigecycline, stopped on 13/10, continue oral voriconazole\n\nPoor weight gain, oral feeding fair\nadded Centrum advance + Cyproheptadine on 20/10\n\nLatest spot urine x protein/cr ratio on 11/11: 0.87 (after stopping lenvatinib on 26/10) \n\n",
+      "recommendation": "Monitor diet and I/O\nContinue intensive rehabilitation \nOral voriconazole for 9-12 months from last OT on 5/5/2022\nDischarge back to Macau on Monday",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "CA rectum with regional LN, peritoneal and bone mets \nPresented with abdominal pain, weight loss and PR bleeding \nFound ascited on exam and rectal mass \n\nStarted on FOLFOX 4 since 11/2021\n- Complicated by anaphylaxis to oxaliplatin -> changed to Irinotecan since cycle 9 \nChanged to 3rd line Lonsurf + avastin in view of disease progression\n",
+      "diagnosis": "CA rectum with regional LN, peritoneal and bone mets \n",
+      "drugs": "Dexmedetomidine\nLasix Q8H \nCefazolin\nPanadol prn",
+      "ix": "",
+      "progress": "Active problem: \n1. Partial IO on conservative Mx, drip & suck, not for surgical intervention, off TPN after PICC dislodged\n2. Moderate ascites, IPC insertion on 14/11/2022\n3. Bilateral pleural effusion\n4. Pain control\n- Intrathecal pump insertion done in QMH on 3/11, increased to 0.7mg/day since 16/11\n- Initially given fentanyl patch & fentanyl SL prn for breakthrough pain, off now due to acute deterioration (see below)\n5. AROU, hematuria with progressive renal failure\n- On & off blood clots in urine\n- AROU episode on 17/11 night with significant pain & agitation, Fr 24 foley insertion done by PS, now on continuous bladder irrigation\n- Oligouria since 18/11, increased Cr 170+\n- Hypertension SBP 150-170\n- On regular lasix\n6. Progressive deranged LFT & TB\n7. Gapped back wound, re-sutured on 18/11, on empirical Cefazolin\n\nAcute deterioration on 17/11 night\nAssociated with AROU, acute delirium & significant pain\nRepeated sedation & increased morphine for foley insertion & as patient agitated\nPICC dislodged while struggling\nDrowsy with small pupil & transient low RR on 18/11 am\nCurrently weaned off fentanyl patch, PCA morphine\nOn dexmedetomidine infusion 0.3mcg/kg/hr\nWill be reviewed by QMH pain team & see if need to titrate down intrathecal pump dose\n\nFamily seen by PPC team, agreed for DNACPR\nWish to continue Lonsurf if clinically stable",
+      "recommendation": "Monitor I/O, urine output\nMonitor BP\nExpected fentanyl patch effect to wear off at ~4am, to start very low dose PCA morphine if increased pain symptoms\nPlan decrease dexmedetomidine infusion on Sat AM if stable\nTo resume Lonsurf if stable\nBlood taking only when set HB, plan not for further blood taking if condition deteriorating",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "presented with dry cough, constitutional symptoms for 1 month. complete svco and RA invasion of tumour initially. hCG elevated. interval reduction in tumour size on cxr after chemo",
+      "diagnosis": "anterior mediastinal seminoma with pleural metastasis",
+      "drugs": "",
+      "ix": "",
+      "progress": "neutropenic fever, admitted on 21/4. cycle1 BEP D15 bleomycin given on 22/4 daytime. developed septic shock in evening 22/4, required PICU for inotropic support for 1 day.\nCompleted 7d course of vancomycin and meropenem, blood culture no growth. Currently vitals stable, started D1 cycle 2 chemo (JEB) since 29/4/2022",
+      "recommendation": "Continue chemo ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Pelvic rhabdomyosarcoma with multiple LN and lung metastasis, bladder outlet obstruction with bilateral JJ stent inserted and suprapubic catheter in situ\nRT completed\n\nCandida UTI\ncytoscopy + exchange of suprapubic catheter + removal of bilateral JJ stent on 22/8\n\n",
+      "diagnosis": "Pelvic rhabdomyosarcoma with multiple LN and lung metastasis",
+      "drugs": "Micafungin\n",
+      "ix": "Hb 9.6, WCC 2.53, ANC 1.53, Plt 541\nLRFT normal ",
+      "progress": "adm x week 37 VI chemo \n\ncandida UTI\nswitched from fluconazole to micafungin due to interation between fluconazole and vincristine\non IV micafungin, plan antifungal till 4/9",
+      "recommendation": "Continue antifungal and D8 vincristine on saturday\nplan home on sunday\nawait PS review",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Relapsed metastatic soft palate embryonal rhabdomyosarcoma (metastasis to left neck LN)",
+      "diagnosis": "Relapsed metastatic soft palate embryonal rhabdomyosarcoma",
+      "drugs": "",
+      "ix": "blood culture on 12/4 T/F, CRP 11 ",
+      "progress": "Completed chemotherapy according to ARST0921 VC, developed non-neutropenic fever after completion of chemotherapy, on IV tazocin D2-3, fever down",
+      "recommendation": "Plan to oral augmentin and discharge on 15/4/22 if blood culture no growth and clinically well",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Completed 9 courses systemic chemo\nGiven 1 course of IAC",
+      "diagnosis": "Bilateral retinoblastoma ",
+      "drugs": "",
+      "ix": "",
+      "progress": "Failed IAC on 9/9 due to occlusion of ophthalmic artery\n\nAbrasion with skin peeling over left face, likely caused by removal of tapes from ETT\n\nHickman line position in subclavian vein\nStill able to take blood after urokinase\nConsider removal if no further systemic chemo",
+      "recommendation": "Home on Sat if stable",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Right medial thigh spindle cell tumor, presented hard mass over right thigh 7/2021\nOn COG intermediate risk ARST 1431, regimen A\n",
+      "diagnosis": "Right medial thigh spindle cell tumor",
+      "drugs": "",
+      "ix": "",
+      "progress": "Admitted today for week 31-33 chemo",
+      "recommendation": "continue chemotherapy.",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Suprasellar germinoma ",
+      "diagnosis": "Suprasellar germinoma ",
+      "drugs": "IV tazocin",
+      "ix": "Latest RFT Na 131 K 3.1, increased NaCl supplement and given KCl supplement",
+      "progress": "Completed cycle 4 cycle A on 20/4/2022, noted hyponatremia due to renal loss of Na (carboplatin-induced), on NaCl supplement and daily RFT monitoring. Neutropenic fever on 22/4/22, started IV tazocin, culture T/F",
+      "recommendation": "Continue IV tazocin\nDaily monitoring of RFT ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "DIPG on palliative care\n",
+      "diagnosis": "DIPG, palliative care, DNACPR\nLeft pneumonia",
+      "drugs": "IV Tazocin D4\nIV Keppra\nPO dexamethasone 1mg daily\nPO Clobazam, baclofen",
+      "ix": "",
+      "progress": "Admitted for increased vomiting due to disease progression\nNot tolerating milk feed, put on IVF.\nAlso noticed tachypnea and desaturation on 6/6 (D3 admission)\nCXR showed left middle and lower zone collapse/ consolidation\nSputum c/st: Pseudomonas\nStarted on IV Tazocin, today D4",
+      "recommendation": "Comfort care\nContinue IV Tazocin over weekend\nCan consider resume slow milk feed if no further vomiting\n",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Relapsed neuroblastoma (bone + bone marrow + LN + liver)\nMIBG therapy done\n1st HSCT graft rejection \n2nd haplo-HSCT (mother) on 1/8",
+      "diagnosis": "Relapsed neuroblastoma (bone + bone marrow + LN + liver)\n1st HSCT graft rejection \n2nd haplo-HSCT (mother) on 1/8",
+      "drugs": "",
+      "ix": "",
+      "progress": "Admitted for cycle 5 immunotherapy",
+      "recommendation": "Continue immunotherapy\nNext scheduled blood test on Mon (CBC, LRFT, CaPo4, Mg, chimerism, FK level, CMV/ EBV / adenovirus / HHV6 / HHV7/ BK virus)",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "On Neuro-rehabilitation ",
+      "diagnosis": "Posterior fossa high grade glioma\nPost tumor excision and vp shunt insertion\nposterior fossa syndrome\ngastrostomy feeding",
+      "drugs": "IV Rocephin D5\nIV Flagyl D4\nPO Vancomycin D2-3",
+      "ix": "",
+      "progress": "Admitted for PR Bleeding. \nCause: dasatinib induced, CD +ve\nOn bowel rest, TPN support, IV antibiotic\nCondition improves\nWithhold sirolimus + dasatinib",
+      "recommendation": "Continue antibiotic, TPN over weekend\nMay consider resume feeding early next week\nAwait microbiology for antibiotic duration and whether for treatment of Candida in stool",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "admitted x CT guided aspiration",
+      "diagnosis": "Pancreatic head tumor",
+      "drugs": "kytril prn, panadol",
+      "ix": "",
+      "progress": "post procedure abd pain, increased vomiting and feeding intolerance",
+      "recommendation": "monitor overnight\nif dc, arrange FU 2 weeks after dc for histology r/v",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "L buttock high grade CIC sarcoma with lung met\n- RT completed in mid July\n- Given AIT Course 3 on 25/7\nAIT associated hypothyroidism, on thyroxine supplement\nRecurrent wound infection and tumor/wound pain",
+      "diagnosis": "L buttock high grade CIC sarcoma\nBilateral lung metastases with left pleural effusion and right lung extensive metastasis\nDNACPR, palliative care\n",
+      "drugs": "- Flagyl powder to fungating tumor\n- IV meropenem for spike of fever on 5/10\n- PCA fentanyl ,IV Ketamine,  IV panadol, PO pregabalin, PO Amitriptyline\n- IV Midazolam infusion and IV Precedex bolus\n- IV Kytril\n- IVF",
+      "ix": "",
+      "progress": "1. Fungating and progressively enlarging left buttock mass \n- On topical flagyl powder and IV meropenum\n- On frequent wound dressing\n- Excruciating pain managed by IV PCA Fentanyl and IV Ketamine bolus\n\n2. Foley inserted due to previous difficult urination but frequent blockage due to compressing tumor bulk\n- PS opinion: future renewal of foley may be very difficult due to distorted anatomy, suprapubic catheter also not useful\n- On and off partial blockage of foley, consulted PSUR again, suggested daily flushing foley catheter with 10-20 mL warm NS\n\n3. Bilateral lung metastases with left lung pleural effusion. CXR complete white out of left lung with multiple canon balls over right chest.\n- On 15L/min O2 via non breathing mask\n- Worsening SOB, stepping up midazolam infusion\n- Plan for comfort care, not for chest drain insertion/ invasive mechanical ventilation. \n\n4. Pain control\n- On IV PCA Fentanyl and IV Ketamine for breakthrough pain\n\n5. ? Facial puffiness and borderline urine output\n- Reduced IVF to ~ 70% maintanence for ? facial puffiness.\n- Borderline urine output ~0.5ml/kg/hour\n\n** DNACPR. Not for invasive procedure (chest drain insertion, chest compression, intubation, mechanical ventilation, etc) and PICU admission",
+      "recommendation": "To optimise pain control. Step up PCA fentanyl and add IV Ketamine infusion if needed.\nGradually step up midazolam infusion for dyspnea.\nMay consider IV albumin if clinically oedematous\nMonitor foley output, for daily flushing with 10-20mL NS\nFacilitate compassionate visit\nNot for invasive procedure (chest drain insertion, chest compression, intubation, mechanical ventilation, etc) and PICU admission",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Pseudomeningocele\nNon-neutropenic fever",
+      "diagnosis": "multiple cerebral cavernoma\n",
+      "drugs": "IV rocephin\nlactulose",
+      "ix": "CRP < 1\nCSF - high white cell count\nBlood and CSF cultures T/F\nCSF filmarray negative\nUSG abdomen: NAD\nAXR: fecal loaded bowels",
+      "progress": "Admitted for fever and on-off abdominal pain on 3/5 and started on IV augmentin. Developed headache and increasing occipital swelling the same evening. CTB performed showed pseudomeningocele. Tapped at bedside with clear CSF yielded. Switched to IV rocephin on 3/5. Still high fever despite antibiotics. Also on-off headache and increased occipital swelling during periods of fever. Awaiting microbiological assessment.\n",
+      "recommendation": "For blood taking after microbiologist assessment",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "partial excision 10/5/2021 in TMH\non chemo-RT since 8/6/2021, completed RT 21/7/2021, given 8 courses of pulse TMZ\n",
+      "diagnosis": "Left thalamic high grade glioma, DNACPR, comfort care",
+      "drugs": "Meropenem\nKeppra\nlorazepam if seizure >/= 3mins\n",
+      "ix": "CSU ESBL E Coli",
+      "progress": "Admitted to TMH NS due to acute paraplegia. MRI spine showed multiple level of leptomeningeal drop metastasis with cord compression. \nPalliative RT done in TMH to T and L spine lesions\nWorsening of neurological status on 24/5 with seizures, stepped up IV Keppra to 500mg BD, given IV Lorazepam once due to recurrence of seizure\nNPO, on 70% IVF maintenance fluid \nGCS 5/15, E1V1M4, on empirical 2L O2 via NC \nSpiked fever on 26/5, covering with IV meropenem, so far urine + blood c/st no growth \nFor comfort care",
+      "recommendation": "Continue comfort care ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Maternal history of NF2\nPresented with right hemiparesis for 2 weeks\nPrivate MRI showed extramedullary and extra dural lesion at C2-4 with cord compression.",
+      "diagnosis": "Newly diagnosed cervical cord tumor",
+      "drugs": "",
+      "ix": "",
+      "progress": "laminectomy with tumor removal on 10/5.\nPower on right side improves",
+      "recommendation": "Continue neuro-rehab\nPlan blood X genetic on Monday",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "R cerebellar hemangioblastoma post op ",
+      "diagnosis": "Newly diagnosed pilocytic astrocytoma at right cerebellum ",
+      "drugs": "",
+      "ix": "CT brain unremarkable ",
+      "progress": "Admitted for nausea and headache\nCT brain film reviewed by NS, fit for resume diet ",
+      "recommendation": "Observe symptoms",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Gross tumour removal performed on 13/5/2022\nCompleted RT",
+      "diagnosis": "Mediastinal teratoma with sarcomatous transformation\nKlinefelter syndrome",
+      "drugs": "",
+      "ix": "",
+      "progress": "Admitted for week 16 ifosfamide + liposomal doxorubicin\nFair appetite with vomiting",
+      "recommendation": "Continue chemotherapy\nHome on Sat after hydration completed \n",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Stage 4 metastatic nasopharyngeal and parameningeal alveolar rhabdomyosarcoma with CSF metastasis \nFOXO1 -ve\nOn maintenance chemotherapy",
+      "diagnosis": "Stage 4 metastatic nasopharyngeal and parameningeal alveolar rhabdomyosarcoma with CSF metastasis ",
+      "drugs": "IV meropenem and IV septrin",
+      "ix": "Blood culture: enterobacter cloacae complex on 17/5, stenotrophomonas maltophilia on 18/5\nCRP 81 <- 103 <- 98",
+      "progress": "Admitted for non-neutropenic fever, blood culture: enterobacter cloacae complex on 17/5, stenotrophomonas maltophilia on 18/5\nLine removed on 18/5 \nOn IV Meropenem + septrin, plan to continue till 30/5 after MRI\nD15 Vinorelbine given 27/5, restarted Cyclophosphamide",
+      "recommendation": "Continue IV meropenem and IV septrin for total 10-14 days (counting from 18/5/2022 after line was removed)",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Tension pneumothorax",
+      "diagnosis": "Relapsed osteosarcoma with lung metastases\n",
+      "drugs": "",
+      "ix": "",
+      "progress": "Clinically admitted after abnormal findings on echocardiogram on 23/5 showing abnormal apical position and interval reduction in ejection fraction from 66 to 45%. Clinically symptomatic with left-sided chest pain dyspnea and orthopnea. CT thorax showed tension pneumothorax. Chest drain inserted same evening with improvement in symptoms.  Drain clamped today. Await CXR - if no reaccumulation of pneumothorax, plan off drain.",
+      "recommendation": "Home over the weekend if stable after chest drain removed\nContinue withhold lenvatanib until cardiac assessment next week",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Average risk medulloblastoma, group 4",
+      "diagnosis": "Average risk medulloblastoma, group 4",
+      "drugs": "",
+      "ix": "",
+      "progress": "Cycle 7 CCV \nReduced vincristine dose due to history of suspected peripheral neuropathy & GI S/E \nReduced cisplatin dose in view of hearing impairment",
+      "recommendation": "Continue chemotherapy\nHome after chemotherapy and post hydration",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Left hepatectomy and right segment resection performed in Jan 2022\nChemotherapy completed in Feb 2022",
+      "diagnosis": "Hepatoblastoma",
+      "drugs": "Augmentin",
+      "ix": "",
+      "progress": "Admitted for URTI with fever and coughing. Close contact of a person who's wife later tested positive for COVID19 on 24/5.  Patient's RAT so far negative",
+      "recommendation": "Continue quarentine at home if symptom improve.",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Neuroblastoma in CR3\nPost-haplo PBSCT 08/21\nHypothyroidism, on thyroxine supplement. \nSynovial sarcoma at floor of mouth \nLast cycle of week 7 ifosfamide + liposomal doxorubicin on 4-7/1/2023\nDue for week 10 chemo on 25/1, ENT surgery on 21/2 ",
+      "diagnosis": "Synovial sarcoma at floor of mouth (secondary malignancy)\nMetastatic neuroblastoma (primary malignancy) \nNeutropenic fever with septic shock \nAdrenal insufficiency ",
+      "drugs": "Pazopanib (W/H due to perianal symptoms) \nIV meropenem, amikacin \nIV acyclovir\nIV micafungin \nLA bactroban (to perianal ulcer) \nStress dose Hydrocortisone\nFludrocortisone \nThyroxine\nElectrolytes (phosphate solution) \nSitz bath \nNystatin/ difflam/ chloramphenicol mouth wash \nIVF + Kh2PO4 + K2PO4 + MgSO4",
+      "ix": "RFT 138/4.0/5.2/37\nAlbumin 26\nALT 75 \nCa 2.23 PO4 1.16\nHb 8.3 WCC 0.09 ANC 0.01 Platelet 53\nCRP 53 <- peaked at 107 ",
+      "progress": "Admission for neutropenic fever with oral mucositis and peri-anal ulcer since 13/1\n\n1. Neutropenic fever with septic shock\nrequired fluid resuscitation of 20mL/kg bolus\nno PICU admission/ inotropes required \nFever on & off\nANC 0.01\nOral c/st: Klebsiella, HSV1\nPerianal ulcer c/st: ESBL E Coli \nBlood fungal and bacterial culture so far negative\nOn D7 IV Amikacin + meropenem, D3 IV Acyclovir, D6 IV Micafungin\n\n2. Tubular dysfunction due to ifosfamide and antibiotics use\nElectrolyte disturbances on HypoK, Hypo Mg, Hypo PO4 on supplement from IVF and oral \nUnable to digest Mg and slow K tablet, current electrolyte supplements changed to syrup form/ IVF\n\n3. Hemorrhagic cystitis (?viral induced) \nPainless gross hematuria since15/1 (10 days after ifosfamide infusion), BK virus T/F\nOn total fluid 2L/day\n\n4. Stress dose hydrocortisone \nPlan further reduce to maintenance dose when fever down and clinically well \n\n5. Poor oral intake ",
+      "recommendation": "Continue antibiotics, pending microbiologist review \nMonitor oral intake and nutrition \nMonitor perianal ulcer for ?abscess/ active discharge \nFor tapering stress dose steroid into maintenance dose if fever settled for 24 hours ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Left craniotomy for biopsy & debulking done on 17/6/2022\nOn transamin",
+      "diagnosis": "Left trigeminal cavernoma",
+      "drugs": "",
+      "ix": "Urgent CT Brain: tumour interval increased in size especially in the most anterior part with evidence of interval bleeding, increased mass effect with compression to the left pons and abutment of the basilar artery",
+      "progress": "Admitted for increasing headache since 12pm\nAssociated with left eye lacrimation & left nasal discharge, clear discharge+\n\nUrgent CT Brain done\nUrgent consulted NS, for conservative Mx\n",
+      "recommendation": "Await NS review\nMonitor symptoms +/- consider repeat CT Brain if condition deteriorated",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "treated as hepatic haemangioendothelioma with sirolimus, weekly vincristine previously\nIncrease in size in past months\n-> revised diagnosis to treat as hepatic angiosarcoma based on clinical progression and radiological appearance \nRIsk of biopsy too high thus not yet done\nStart PAZNTIS ARST1321 protocol on 17/6\n\"C\" admitted for CT",
+      "diagnosis": "hepatic angiosarcoma\nTKI associated hypothyroidism",
+      "drugs": "septrin ",
+      "ix": "Hb 7.9 \nWCC 1.09 \nplatelet 19 ",
+      "progress": "Biopsy done on 8/8\nThen noted low grade fever on IV augmentin\nRFT on 11/8 noted elevated Cr, normalised with IVF\n\nConsulted renal team: ?possible lab interference due to intake of meat soup\nMonitor RFT, for urine test and USG\nNo concern to start chemo as planned if RFT normalized\n\n",
+      "recommendation": "discharged after CT \nR/A 4SD 19/9 for LCCC",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Bladder tumor, ?NF1",
+      "diagnosis": "Newly diagnosed bladder tumor, ?NF1",
+      "drugs": "",
+      "ix": "",
+      "progress": "Presented for 3 month history of urinary frequency and change in bowel habit. Workup in Vietnam showed a large posterior bladder tumor. Thus, move back to HK for management.\n1st cystoscopy guided biopsy by PS on  showed inadequate sampling of tumor 6/6.\n2nd image guided biopsy by IR on 9/9 frozen section: spindle cell lesion. Pending formal pathology. ",
+      "recommendation": "Home if haematuria resolved\nAwait formal pathology for treatment plan",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Previously treated with PHITT Group B cisplatin with STS protocol 20/12/21 - 2/4/22 then surgery with adjuvant chemotherapy\nNoted AFP rise and new masses on MRI\n\"C\" admited for LCCC + Ct thorax + Abd \n\nStart PHITT group D protocol with doxorubicin and carboplatin on 17/6\n\nPost-LDLT 30/09/22",
+      "diagnosis": "Relapsed hepatoblastoma",
+      "drugs": "Septrin\nLactulose prn",
+      "ix": "AFP 6",
+      "progress": "cycle 6 doxorubicin + carboplatin \n\n",
+      "recommendation": "home saturday ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Newly diagnosed abdominal mass",
+      "diagnosis": "Abdominal mass",
+      "drugs": "",
+      "ix": "",
+      "progress": "Presented with abdominal distension for 6/12. No constitutional symptoms.\nBlood tests unremarkable except mild increase Ca125\nCT done on 24/6, report T/F\nConsulted PS for early liaison of treatment plan",
+      "recommendation": "Await CT report and follow up plan",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Left thumb clear cell sarcoma with known lung, pleural, bone metastasis\nwith disease progression\npreviously on AIT",
+      "diagnosis": "Left thumb clear cell sarcoma with metastasis",
+      "drugs": "defibrotide, lactulose, ursodeoxycholic acid, tazocin, vitamin K\npanadol, morphine, garbapentin",
+      "ix": "CT thorax: no evidence of PE, small bilateral pleural effusion, known lung and pleural metastasis\nCT A+P: multiple small liver and splenic metastasis, no other intraabdominal pathology\nUSG doppler +HBP: reverse portal blood flow+ narrowed hepatic vein, suggestive of veno-occlusive disease",
+      "progress": "Admitted for tachycardia, respiratory distress, RUQ pain\n1. Pleural effusion, resp distress\nSepsis workup unremarkable\nStarted Tazocin\n1 kick of Fever 2 days ago, fever down now\non 2L O2 Spo2 99%, improve in resp distress \n\n2. Veno occlusive disease\npersistent deranged liver function with impending liver failure, high ammonia, prolonged clotting profile\nalso hepatomegaly with tender liver\nUSG confirmed veno occlusive disease\non fluid restriction 70%\nstarted defibrotide, lactulose, ursodeoxycholic acid, vitamin K\n\n3. Disease progression\nDiscussed on DNACPR and redirection of care, so far patient prefered withhold further chemotherapy, parent keen for active resuscitation at this moment",
+      "recommendation": "Blood to monitor liver function daily\nFluid restriction to 1400ml/day (70%), BW daily \ncontinue defibrotide, monitor for any bleeding, keep platelet >=30\ncontinue other liver supporting drug ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "1. Left distal femur osteosarcoma diagnosed in 5/2020\nHKPHOSG 2009 protocol started on 13/5/2020 \nTumur excision + Limb expandable prothesis + local muscle flap 12/8/2020 \nLeft video-assisted thoracoscopy & wedge resection of left lower lobe nodules performed at HKSH on 27/9/2021 \n\n2. Relapsed right proximal tibial osteosarcoma. AKA done 31/08. On Gemdox since 13/09/22",
+      "diagnosis": "Left distal femur osteosarcoma with right proximal tibial bone relapse",
+      "drugs": "Septrin",
+      "ix": "",
+      "progress": "ANC 0.18 - cannot proceed to GEMDOX. Given one dose IV Filgrastm +/- SC over weekend\nPlan repeat CBC on Monday ",
+      "recommendation": "HL till Monday ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "metastatic medulloblastoma with extensive LM spread, started memmat protocol 5/2021",
+      "diagnosis": "metastatic medulloblastoma with extensive LM spread, started memmat protocol 5/2021, on oral cyclophosphamide, thalidomide and fenofibrate",
+      "drugs": "oral etoposide, thalidomide and fenofibrate\n",
+      "ix": "OGD found pyloric stricture with gastric outlet obstruction \n\n",
+      "progress": "OGD balloon dilatation + NJ tube insertion done on 15/7/2022\nStarted on NJ tube feeding, tolerated",
+      "recommendation": "Continue NJ feeding \nContinue oral etoposide\nHome on Sat if home milk feeding ready\nR/A on monday for intraventricular etoposide",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Left distal femur osteosarcoma with lung, brain and spinal metastasis diagnosed in late July 2019, surgery done in 2019, completed chemo in May 2020\nDisease progress with lung and brain metastasis since 9/2020, LLL lobectomy and left craniectomy and tumour excision done in 12/2020\nGammaknife at private since 20/6/2022, plan till 30/6/2022\n\nLevatinib induced hypothyroidism\nCompleted RT in QMH for Haemoptysis ",
+      "diagnosis": "Left distal femur osteosarcoma with lung, brain and spinal metastasis",
+      "drugs": "transamin, keppra, thyroxine\nseptrin\n",
+      "ix": "Cr 105 -> 85 -> 92 \neGFR 56 -> 64",
+      "progress": "Adm x Cycle 5 OLIE \nCr rising trend, discuss with parents, to proceed with OLIE today, monitor RFT \n\nTo decide on next course ?space out interval / reduce dose ",
+      "recommendation": "Continue rehabilitation \nContinue cycle 5 OLIE, monitor RFT ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "left proximal humerus osteosarcoma \nCompleted chemo and OT performed ",
+      "diagnosis": "left proximal humerus osteosarcoma ",
+      "drugs": "",
+      "ix": "Progress CT thorax: new interval right pneumothorax, suspected pleural metastasis ",
+      "progress": "Stable on RA \n",
+      "recommendation": "Monitor CXR (right side pneumothorax) \nTo discuss for further management of pleural metastasis ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Right basal ganglia germ cell tumour",
+      "diagnosis": "right basal ganglia germinoma",
+      "drugs": "",
+      "ix": "bHCG normalized since 7/9/2022\n\nMRI brain showed right basal ganglia lesion, MRI spine normal ",
+      "progress": "Cycle 4 chemo D1",
+      "recommendation": "Continue chemotherapy ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Presented with nystagmus and failure to thrive on in 6/2019\nBack to Macau since 2/2020 due to COVID\nPreviously on weekly vinblastine and trametinib\n\nProgressively enlarging mass since 9/2021\nTumour resection on 12/7/2022\nVentriculoatrial shunt insertion 8/8/2022\n\nLatest MRI 21/11/22 show overall good response to treatment ",
+      "diagnosis": "Suprasellar pilomyxoid astrocytoma with partial excision, BRAF fusion +ve\nHypothalamic dysfunction, panhypopituitarism\nEpilepsy, dystonia.",
+      "drugs": "Ativan, phenergan at night time\nChloral hydrate prn for irritability\nHydrocortisone \nDDAVP 3 times per day\nKeppra\nClobazam\nClonidine\nThyroxine",
+      "ix": "Bloods will be taken on 7/1/23, watch out for neutropenia \nIGF-1, vitamin D level (7/1) as suggested by endocrine team ",
+      "progress": "1. Last given week 13 carbo + vincristine on 26/12\n2. Macau resident, plan discharge back to Macau on 17/1/2023",
+      "recommendation": "1.Tentative date for d/c to macau: 17/1/2023\n\n<For breakthrough diuresis>\nIf u/o >4ml/kg/hr for consecutive 4hr AND urine SG <= 1.005 , early give next dose of DDAVP. If all doses of DDAVP of the day are given, prescribe DDAVP 15 microgram SL x1",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Left temporal lobe high grade glioma diagnosed in 3/2022\nOT and RT done\nSpinal cord compression with spinal met\nhydrocephalus with VP shunt inserted on 16/8\nESBL E.Coli UTI completed 1 week course meropenem 1/9/2022",
+      "diagnosis": "Left temporal lobe high grade glioma, on dasatinib and sirolimus\nVP shunt insertion on 16/8\nNeurogenic bladder, on long term foley",
+      "drugs": "keppra\nsenna \nfleet\ndasatinib, sirolimus\ndexamethasone po 2mg daily for 3 doses \nnexium 20mg daily \n",
+      "ix": "",
+      "progress": "Started dasatinib and sirolimus on 15/8/22\ndisease progression with cord compression over cervical spine region with urgent RT done 1/9/2022\nshowed little recovery of UL power \nbedsore on daily clinical photo \ngasping since 15/9/2022 \non midazolam drip and PCA morphine \n",
+      "recommendation": "DNACPR\nallow compassionate visit from family \n\n",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "DIPG\nDNACPR. For comfort care.\n\nThis admission:\nFever and decreased GCS 24/11 admitted TMH PICU, intubated and ventilated \nTransferred to HKCH and extubated in oncology ward ",
+      "diagnosis": "DIPG",
+      "drugs": "",
+      "ix": "",
+      "progress": "1. Fair respiratory condition on 6-10L O2\nOccasional transient apnea\n\n2. Unstable temp/ BP on supportive management\n\n3. Aspiration risk, required frequent suction\nStepped up tube feeding now on 180ml+ water flush 4x/day\n4. Positive fluid balance and oliguria, improved with IV Lasix\n5. Last seizure on 5/12/2022, on Keppra and PHB. ",
+      "recommendation": "1. Avoid blood taking\n2. Morphine / midazolam drip to be considered in case of gasping with distress / terminal. Please call Buddhist monk (see PPC notes) when EOL is imminent \n3. Continue holiday chest PT and other supportive care\n4. Step up feeding to 200ml+ water flush 4x/ week if condition allowed\n5. May change IV luminal to oral if HB out\n\n<Seizure plan>\nlorazepam 4 mg IV up to 2 doses per episode. Dilantin loading 20 mg/kg. standby ordered in IPMOE \n\n",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Right thalamic/ cerebral peduncle glioblastoma completed RT and 4 course of TMZ\nResidual tumour and post-RT cerebral edema with mass effect\nSputum retention and aspiration pneumonia with type I respiratory failure, max given HFNC in PICU ",
+      "diagnosis": "Right thalamic/ cerebral peduncle glioblastoma completed RT and 4 course of TMZ\nResidual tumour and post-RT cerebral edema with mass effect\nSputum retention and aspiration pneumonia\n",
+      "drugs": "Tazocin, dexamethasone, keppra, nexium, Hyoscine patch, morphine infusion ",
+      "ix": "MRI showed disease progression\nsevere hyponatremia",
+      "progress": "recurrent aspiration and sputum retention\ncerebral salt wasting",
+      "recommendation": "not for further blood taking\nfor comfort care, not for PICU admission",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Complete surgical excision in QMH on 5/11/2020 (D2 of life), initial falling trend of AFP, but increasing since 6/2022\n\nMRI 5/8/2022 showed 1.5cm enhancing lesion at right posterior ischiorectal fossa",
+      "diagnosis": "Sacrococcygeal immature teratoma recurrence",
+      "drugs": "septrin",
+      "ix": "",
+      "progress": "noted hickmann line displacement on 26/9/2022 \nfor CVC revision on 30/9\nto start cycle 3 JEB on 1/10",
+      "recommendation": "Start cycle 3 JEB on 1/10/2022",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Left salphingo-oopherectomy on 18/7/2022\nPeritoneal fluid: scanty atypical cells\nAFP 7 on presentation",
+      "diagnosis": "left ovarian sertoli leydig cell tumour, mod to poorly differentiated",
+      "drugs": "",
+      "ix": "",
+      "progress": "Hickman line insertion on 19/8/2022\nMother would like to stay one more night for observation\n\nPlan start cycle JEB on 22/8",
+      "recommendation": "Home on Sat if stable\nPlan start cycle JEB on 22/8",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Presented with abdominal distension with mass palpated\nAFP at presentation 19205\n",
+      "diagnosis": "Hepatoblastoma",
+      "drugs": "chemo \nSTS",
+      "ix": "",
+      "progress": "QMH surgery: to proceed to surgery after 4 course of chemo\nAdmit x course 4 cisplatin with STS",
+      "recommendation": "Continue chemo per protocol\nPlan for OT after cycle 4 chemotherapy & reassessment imaging ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "localised right thigh epitheloid sarcoma, post-excision and irradiation Dec 2021 \nPET-CT and CT thorax showed non-specific tiny lung nodules ",
+      "diagnosis": "localised right thigh epitheloid sarcoma",
+      "drugs": "",
+      "ix": "",
+      "progress": "admitted for pre-op prepatation +/- ICG injection \nVATS metasectomies done on 2/9/2022",
+      "recommendation": "post-op PICU support ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Recurrent group 4 medulloblastoma with leptomeningeal and spinal metastasis \nlast completed MEMMAT from 26/2020 to 10/2021 ",
+      "diagnosis": "Recurrent group 4 medulloblastoma with leptomeningeal and spinal metastasis ",
+      "drugs": "stress dose hydrocortisone",
+      "ix": "Hb 10.9 \nWCC 2.62 \nplat 185 \nLRFT grossly normal",
+      "progress": "\"C\" admitted x review urinary symptoms and arm port insertion\narm port inserted on 2/9/2022 \nno urinary frequency since last admission, no urgency/ dysuria",
+      "recommendation": "plan home Saturday \nR/A on Monday 5/9/2022\n",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Metastatic Adrenal cortical carcinoma\nStage 4 with lung and liver metastases on immune checkpoint inhibitor\n\nlast admission for SVCO, not for surgical or RT intervention\n\"C\" admitted for airway and symptoms assessment ",
+      "diagnosis": "Metastatic Adrenal cortical carcinoma. Stage 4 with lung and liver metastases\ndisease progression with SVCO",
+      "drugs": "PCA morphine",
+      "ix": "sputum culture scanty for pseudomonas",
+      "progress": "Completed course of Tazocin\n2nd dose immune checkpoint inhibitor (nivolumab + ipilimumab) given 23/9/2022\n\nRapid worsening & deterioration of respiratory distress and cough today, also with increasing chest pain, likely due to obstructive symptoms from mediastinal mass\nAdded PCA morphine, now 20mcg/kg/hr\nKept NPO\n\nMother seen & explained on poor condition, worrisome of life threatening acute deterioration \nDNACPR signed previously, also explained again with mother\nFor compassionate visit\nInitially planned HL for staycation on Monday\n",
+      "recommendation": "DNACPR\nMonitor resp symptoms\nTo step up PCA morphine according to pain control\n+/- Midazolam infusion starting at low dose if significant resp distress\nFor compassionate visit",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "First noted right neck mass in 10/2020\nDefaulted staging CT multiple times as mother refused\n\nCT Thorax 29/7/2022: \n- Right thyroid mass\n- Multiple metastatic LNs over left jugular chain, left supraclavicular region & upper mediastinum\n- A 1.0cm hypoenhancing lesion at hepatic segment 7, suspicious of metastatic lesion\n\nComplete thryroidectomy + bilateral modified radical neck dissection + central compartment neck dissection on 15/8/2022\n\nPlan for RAI on 10/10/2022",
+      "diagnosis": "Metastatic papillary CA thyroid",
+      "drugs": "Thyroxine\nCalcitriol, cholecalciferol, CaCO3",
+      "ix": "",
+      "progress": "Transfer from PS ward for further Mx\n\n1. Metastatic papillary CA thyroid\nContinue dressing over neck wounds\nPET-CT (plain without contrast) in HKAH in mid 9/2022\nPlan for RAI on 10/10/2022\n\n2. Post thyroidectomy monitoring\nMonitor iCa, TFT\nFU Endocrine team\n\n3. Established child abuse & medical neglect\nMother as abuser\nUnder C or P order, maternal grandparents as guardians, mother not allowed to visit in ward for the time being\n",
+      "recommendation": "Blood taking on Tue & Fri (monitor iCa, CaPO4, ALP)\nTrace PET-CT (plain without contrast) appt in HKAH, aim mid 9/2022\nKeep in ward, mother not allowed to visit for the time being",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Presented with left knee pain for 1 month \nDouble lumen portacath inserted on 16/9/2022\nStarted HKPHOSG osteosarcoma protocol since 22/9/2022",
+      "diagnosis": "Left proximal tibial osteosarcoma, localized\nPartial ostectomy of tibia and fibula, left TKR done in 12/2022\nG6PD deficiency ",
+      "drugs": "Post-MTX IVF ",
+      "ix": "Bone scan (QEH 11/11/22)\nleft proximal tibia uptake (known tumor)\nleft proximal humerus focal uptake (non-specific, new)",
+      "progress": "Small wound gap with greenish discharge on 9/1, no pain/ swelling \nSwab -ve, septic workup unremarkable \nSeen by ortho, started PO cephalexin, will be reviewed by ortho again next week \n\nSuprapubic swelling, USG non specific findings\nSeen by PS, to monitor CBC, CRP\n\nWeek 14 HDMTX started on 11/1/2023\nWeek 15 HDMTX started on 19/1/2023",
+      "recommendation": "Monitor CBC, CRP\nMonitor MTX level\nHome on Sunday if MTX level <0.15",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "DIPG, on palliative care\nDNACPR signed, ACP discussed, not for PICU admission or intubation",
+      "diagnosis": "DIPG",
+      "drugs": "Meropenem. Stress dose steroid\nKeppra/ Clobazam/ Baclofen",
+      "ix": "",
+      "progress": "1. Non-neutropenic fever. RUL MSSA pneumonia. On day 5 IV Ｍeropenem. MaxO2 face mask 15L/min, back to baseline O2 0.5L/min. On BD chest physio\n2. Hx of adrenal insufficiency and Epilepsy. Stable. Await Neuro/ Endocrine review",
+      "recommendation": "Home on 14/01 if stable\nFor compassionate visit. Family still wish to home if clinically stable",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Infantile GBM, ETV6-NTRK3 fusion",
+      "diagnosis": "Right parietal infantile GBM, ETV6-NTRK3 fusion",
+      "drugs": "",
+      "ix": "Latest blood on 6/10:\nHb 8.4  \nWCC 2.78   ANC 1.00 ← 3.15 \nPlt 177",
+      "progress": "5th cycle CCE chemo D1",
+      "recommendation": "Cont 5th cycle chemo\nHome after chemo",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Right proximal femur osteosarcoma with lung & bone metastasis\nDisease progression, refractory tumor breakthrough pain and poor feeding\nCurrent on OLIE protocol\nLast given #10 OLIE 29/11/2022\nDue for #11 OLIE 29/11/2022 (postposed due to fever) \nGiven #11 OLIE on 5/1/2023",
+      "diagnosis": "Localized right proximal femur osteosarcoma, with lung/pleural and bone relapse",
+      "drugs": "Lenvatinib (resumed since 31/12/22) \nIV Augmentin \nK and PO4 supplement",
+      "ix": "",
+      "progress": "1. Non neutropenic fever on 3/1 on D3 IV Augmentin, plan 5/7 days in total \nFever downtrend on the first day, culture so far negative \nCRP 120 -->60 \nMSU and stool: no growth\nRecent non neutropenic fever just completed 5-day course of Tazocin\n\n2. Breakthrough pain\nFluctuating right chest wall pain, seen by pain team this week \nWell controlled with MST 10mg BD with prn oral morphine and oral paracetamol \n\n3. Resumed Lenvatinib on 31/12/2022, tolerated  \n4. Started #11 OLIE on 5/1/2023 for monitoring of I/O and urine RBC\n\n5. Poor feeding and low BMI 11.6kg/m2\nEncourage small and frequent oral feed\nLow PO4 and K, on supplement\nPreviously tried tube feeding but not tolerated well\n\n6. Referred to PWH RT, first appointment on 16/1/2023",
+      "recommendation": "1. Observe general condition and fever trend\n2. Monitor I/O and electrolyte\n3. Plan 5/7 IV Augmentin ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "metastastic neuroblastoma with bone marrow metastasis \npresented with fever in march 2021 \nlatest BMA in sept 2022 showed no abnormal cells \n",
+      "diagnosis": "metastastic neuroblastoma with bone marrow metastasis \n",
+      "drugs": "",
+      "ix": "",
+      "progress": "admitted for course 3 3F*",
+      "recommendation": "discharged ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "NF2 \nbilateral acoustic neuroma and left trigeminal schwannoma ",
+      "diagnosis": "NF2 \nbilateral acoustic neuroma and left trigeminal schwannoma ",
+      "drugs": "panadol \nvalaciclovir ",
+      "ix": "",
+      "progress": "\"C\" admitted for OT \n",
+      "recommendation": "just off IV dexamethasone as suggested by NS \nplan home over weekend",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Stage 4 retroperitoneal neuroblastoma, completed treatment 28/12/2020 in CR-1 \nLaparotomy and excision of tumour and lymph node at QMH 6/4/2020\nAutologous PBSCT on 5 May 2020",
+      "diagnosis": "Stage 4 retroperitoneal neuroblastoma, completed treatment 28/12/2020 in CR-1 \nRelapse with new focal MIBG-avid lesion over left femur and mesenteric LNs at L3/4\nHaploidentical NK cell infusion on 9/12/2022",
+      "drugs": "",
+      "ix": "MIBG on 21/9/2022:\n1. New focal MIBG-avid marrow activity over left mid femur suggestive of bone metastasis.\n2. New MIBG avid mesenteric nodule at the level of L3/L4, suspicious of nodal metastasis.\n3. Static residual soft tissue lesion in left suprarenal region shows no MIBG avidity.\n4. Modified Curie score is 2 ( Previous MIBG scan dated 23/03/2022, Modified Curie Score: 0).\n\nBMA + trephine : normal bone marrow, no abnormal infiltration \n\nLatest MRI brain on 9/11:\n1. Known small region of heterogeneous marrow signal in right maxillary bone is similar in size.\n2. Probable prior microhemorrhage in left parietal region, similar as in previous scan. \n3. Several tiny non-specific FLAIR hyperintense foci in bilateral cerebral white matter, similar as in previous scan. ",
+      "progress": "Admission for 3F8 + GM-CSF + IL-2, and allogeneic haploidentical NK cell therapy \nNK cells infused on 9/12/2022.\n\n1. Neutropenic fever\nFever down. No positive culture\nPlan 7 days IV Tazocin\n\n2. Persistent low count on GCSF and frequent supportive transfusion.\n\nPlan 2nd NK cell therapy in mid Jan 2023 (tentative D0 on 19/1/2023)",
+      "recommendation": "To complete 7 days IV Tazocin\nMonitor blood count ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Given 52 weeks of IV Vinblastine till end of Sep 2022\nCurrently on drug holiday\nAlso to be screened for entrectinib use on TAPISTRY trial",
+      "diagnosis": "Right thalamic ganglioglioma grade 2 \n",
+      "drugs": "IV Augmentin",
+      "ix": "WBC 5.67 ANC 5.3\nCRP 18\nNPS T/F\nBlood culture: T/F",
+      "progress": "Admitted for non neutropenic fever\n\nToday D1 fever up to 39.5'C\nNo chills\nNo localising symptoms\nNo headache/ vomiting/ neurological symptoms\n\nCovered with IV Augmentin and removed PICC",
+      "recommendation": "Continue IV Augmentin and see fever trend ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "(1) Newly diagnosed hepatoblastoma, PRETEXT III, V+P-E-F+R-C+N-M-, Intermediate risk \n- Enrolled to PHITT (JPL4) Group C, 1st course C5VD given on 16-18/10/2022\n\n(2) Anaemia ",
+      "diagnosis": "Newly diagnosed hepatoblastoma, PRETEXT III, V+P-E-F+R-C+N-M-, Intermediate risk\nAnaemia",
+      "drugs": "Septrin",
+      "ix": "AFP at diagnosis 363900 ug/L\n\nLatest Hb stabilised 11.2\nWCC, Plt normal\nLRFT, CaPO4 unremarkable\nCRP T/F\nPost-1st course chemo AFP T/F",
+      "progress": "First presented to TMH with progressive right sided abdominal distension x 1/12 + occasional scratching over RUQ + pallor + jaundice + static body weight despite good feeding\n\nCT Abd with contrast 15/10/2022 in TMH:\n- A large lobulated hypodense mass 7.9 x 8.0 x 11.2cm with scattered coarse calcification & heterogenous contrast enhancement at right upper abdomen, involving right lobe of liver\n\nAlso noted Hb 6.4 with tachycardia, transferred to PICU for close monitoring \n\nCT T+A+P with contrast 15/10/2022 in HKCH:\n- Small amount of moderate to high density peritoneal fluid in the pelvis, showing minimal interval increase in amount compared to prior study, can represent small hemoperitoneum.\n- Known large lobulated mass lesion involving the right hepatic lobe shows no significant interval change compared to prior study. No active contrast extravasation noted to suggest active bleeding. \n\nHickmann Line inserted on 18 Oct 2022\n\nTransfused 2 times in total, latest Hb stabilized\nTransferred back to 5N for further management on 19/10\nBP / P at ward currently stable\nAbd soft with hepatomegaly (~4-5 FB), no guarding \n\nBaseline echo normal on 16 Oct 2022\nAudiogram appt T/F",
+      "recommendation": "Monitor vitals and clinical condition\nPlan stay for 2nd week vincristine",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Pituitary germinoma\n\nPresented with panhypopituitarism (central DI, GH deficiency, hypogonadotrophic hypogonadisma)\nSerum and CSF AFP and HCG all normal",
+      "diagnosis": "Pituitary germinoma",
+      "drugs": "Hydrocortisone IV (stress dose)\nKytril\nSeptrin\nDDAVP",
+      "ix": "",
+      "progress": "Admitted for cycle 1 carboplatin & etoposide\n\nStarted cycle 1 chemo since 26/10/2022\nAllergic reaction 30mins after start of etoposide\n- Presented with rash & angioedema, no anaphylaxis\n- Resolved with IV piriton\nConsulted allergy team, for desensitization \nD2 chemo given in PICU with desensitization done\n\nOn stress dose hydrocortisone during chemo",
+      "recommendation": "Home on Sat if stable after D3 chemo\nR/A 2/11/2022 x LCCC\nTo maintenance dose HC after complete chemo",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Known ASD on abilify.\nSevere constipation.\nPersistent weight loss BW dropped from 25kg to18kg despite claimed 5000kCal diet per day.\nHistory of refeeding oedema when admitted to QMH Paed before with weight gain.\nBMI 11kg/m2. Marked wasting.\nMultiple and old abrasions over body.\nPuffy hands and feet.",
+      "diagnosis": "Persistent weight loss for investigation\nRefeeding syndrome",
+      "drugs": "Thiamine, PO4 and K supplement \nAbilify",
+      "ix": "Extensive investigation including blood, stool, PET-CT, MRE, top and tail done\nNo conclusive results",
+      "progress": "Clinically and biochemically refeeding syndrome\nResolved limb oedema\nOn Q12H blood taking to see electrolyte\nOn regular K and PO4 replacement. Also thiamine supplements.\n\nNoted old and new skin abrasions and right elbow bruise.\n\nMDT held. Plan activate child protection mechanism to investigate the cause of starvation",
+      "recommendation": "Plan discharge to QMH on Mon",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Treated according to SIOPEN-HR protocol since 8/2020, completed treatment on 23/2/2022\nLimping gait since late 9/2022\nBone scan showed suspected bone metastasis\nDotatate scan showed multiple bone metastasis, also soft tissue at right greater wing of sphenoid & S4",
+      "diagnosis": "Relapsed neuroblastoma, mycn amplified\nESBL E. Coli septicaemia, left ankle cellulitis + abscess",
+      "drugs": "Meropenem \nSeptrin",
+      "ix": "",
+      "progress": "Admitted for neutropenic fever\n1. Left ankle abscess complicated with ESBL E. Coli septicaemia\nFever down on 21/12 and remain afebrile\nLeft ankle abscess, with I&D 30/12, wound closure 5/1\nDWS (5/1) -ve, blood c/st repeated -ve\nOn meropenem since 20/12 till now \n\n2. Deranged LFT \nALP 411, ALT 132\nUSG HBP unremarkable\nTo observe at the moment \n\n3. Relapsed neuroblastoma \nPET scan: drastic response after chemo with no evidence of local recurrence \nBME: no evidence of abnormal cellular infiltration, trephine T/F \n\nStarted 3rd course of irinotecan + TMZ + dinutuximab + GM-CSF on 11/1/23\nFair oral intake with abdominal pain and occ vomiting of undigested food \nOtherwise vitals stable, afebrile ",
+      "recommendation": "Continue meropenem \nContinue chemo, monitor vomiting and hydration status, +- IVF if needed ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Noted to have suboptimal AFP drop and right sciatica presented in late Oct\nSubsequent AFP rising trend and CT revealed mass over left para-aortic region and lesion at right S1 sacral foramen",
+      "diagnosis": "Metastatic left ovary mixed yolk sac tumour & mature teratoma\nRight sciatica",
+      "drugs": "Admitted for BEP #4",
+      "ix": "USG right LL doppler 26/10/2022: No evidence of DVT \n\nCT Thorax + Abd + Pelvis 31/10/2022: \n- A 5.7cm x 3.2cm x 9.7cm heterogenously enhancing mass at left para-aortic region, may represent nodal metastasis\n- Another small ovoid enhancing lesion noted at right S1 sacral foramen 0.9cm in width and 2.0cm in length (measured along the axis of nerve root). Findings may represent metastasis to right S1 nerve root or epidural region. Further evaluation with MR spine suggested. \n\nMRI spine 11/11/2022:\n- left hydronephrosis\n- interval increase in size of left retroperitoneal tumor in para-aortic region\n- Multiple bone metastases in L1, L3, L5 vertebral bodies and right sacrum\n\nAFP down trending, lastest 28 ",
+      "progress": "Clinically admitted for BEP Course 4 on 17/1\nStem cell harvest done on 30/11/2022 \nFor disease evaluation with AFP trend and imaging to determine management plan after course 4 chemotherapy\n\nPET scan, MRI whole spine 2/2023\nCT A+P+T 3/2023",
+      "recommendation": "Continue chemotherapy, plan home on 22/1/2023",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Right ovarian immature teratoma\nright salpingo-oophorectomy done on 25/7/2022\nSubsequent rising trend of AFP in late Sept\nUSG 20/9 showed multiple small round and tubular anechoic lesions noted at subcapsular region of right hepatic lobe",
+      "diagnosis": "Right ovarian immature teratoma",
+      "drugs": "JEP ",
+      "ix": "Latest CT A+P (4/11/2022)\n- A 4.8cm heterogeneously enhancing lesion with internal fat and calcific foci at right perihepatic region with scalloping of liver, worrisome of peritoneal recurrence.",
+      "progress": "Adm x PICC insertion, chemo preparation\n\nPlan start cycle 1 JEP on saturday",
+      "recommendation": "Proceed with cycle 1 JEP",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "OT performed on 9/2022",
+      "diagnosis": "Left ovarian immature teratoma",
+      "drugs": "",
+      "ix": "",
+      "progress": "Course 4 JEB, uneventful",
+      "recommendation": "Continue chemo",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "DIPG on RT in HKSH\n",
+      "diagnosis": "DIPG",
+      "drugs": "Vancomycin",
+      "ix": "",
+      "progress": "MRSA line sepsis (2nd episode)\n- Blood C/ST 5/11: MRSA\n- Broviac line removed on 8/11/2022\n\nContinue IV vancomycin for total 14 days\n(Latest vancomycin level 12, aim 10-15 as suggested by MB)\n\nContinue RT in HKSH",
+      "recommendation": "Continue vancomycin \nNo need recheck vancomycin level\nBlood taking ONLY when reset HB\nContinue HL for RT in HKSH",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Thoracic spine ganglioglioma with paraplegia \nHaemophilia A on emicizumab \n\nTransferred from PWH MED for suspected TIA +/- seizure, presentation right sided weakness, including once with unspecified duration of LOC (< 24 hours)\n\nEye 18/11/22: bilateral gross papilloedema with hemorrhage\n\nEEG 17/11/22 no epileptiform discharge\nUrgent MRI + MRV 18/11/22\n1. a 0.8 cm isointense mass at optic chiasm \n2. diffuse enhancing leptomeningeal lesions\n\nPreviously given dexamethasone, weaned off as symptoms improved.\nStarted weekly vinblastine since 22/11/2022 in view of disease progression",
+      "diagnosis": "Bilateral papilloedema\nNew suspected leptomeningeal metastasis ",
+      "drugs": "Keppra (seizure prophylaxis) \nEmicizumab \nSenna, Forlax, fleet enema prn\nBaclofen prn",
+      "ix": "",
+      "progress": "PWH laminectomy with biopsy on spine lesion done on 1/12\nPathology: ganglioglioma with high grade glioma\n\nTo treat as GBM\nNot for vinblastine\nNot for port-a-cath insertion as no frequent need for blood taken / IV chemo\nReferred PWH RT for CSI, appt 21/12/2022\nFamily interviewed\n\nNoted firm swelling over lower end of surgical wound. NS Dr Emily Chan called, would review clinical photos first.",
+      "recommendation": "Factor VIII till 9/12 as planned, consider prolonged coverage if back swelling suggestive of hematoma formation\nPlan LP next week for opening pressure (NS plan to consider VP shunt if high opening pressure) - await NS Dr. Emily Chan reply on availablility, otherwise to be done by oncology team on Mon or Tue",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Presented with cough & hemoptysis\nPreviously with wheezing\nWeight loss\n\nCT thorax 22/11/2022: 2.1cm mass in right main bronchus with almost total obstruction, partial collapse of RUL & RML, suspicious of endobronchial neoplasm, in particular bronchial carcinoid tumor",
+      "diagnosis": "Right endobronchial tumour ",
+      "drugs": "",
+      "ix": "",
+      "progress": "Transferred from TMH for further workup\n\nClinically still occasional cough, no SOB\nNo desaturation all along \n\nSeen by CTS, will reply on bronchoscopy + biopsy date",
+      "recommendation": "Continuous SpO2 monitoring\nHome on Sat if stable\nR/A 30/11/2022 for clinical review + trace OT arrangement",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Newly diagnosed left temporal 4x5x2.6cm tumour presented with absence seizures since August 2022\n",
+      "diagnosis": "left temporal tumour",
+      "drugs": "",
+      "ix": "",
+      "progress": "MRI brain in private 2/12: 40 mm x 50 mm x 26 mm lesion. Overal features suspicious of neoplasm, eg. low-grade glioma, absence of intralesional enhancement & cystic / necrotic region less typical of glioblastoma, pleomorphic xanthoastrocytoma, and ganglioglioma\n\nCraniotomy tumour excision on 9.12.22\nBlood loss 200 ml \nFrozen section: compatible w/ low grade glioma\nPost-op PICU, Hb 10 UO 1.6 ml/kg/hr, GCS 15 / 15 pain score 0\n\nOff ICU to 5N on 10/12\nPOD1 off exudrain \nOff all antibiotics\nNeurosurgery allow for free mobilization and DAT ",
+      "recommendation": "NS: expected left eye will have swelling in coming few days",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Presented with short stature with marked growth deceleration in past 3 years\nPolyuria and polydipsia for 2 years\nDelayed pubertal onset (still prepubertal at this juncture)",
+      "diagnosis": "Pituitary germinoma\nPanhypopituitarism",
+      "drugs": "Septrin \nDesmopressin",
+      "ix": "",
+      "progress": "Admitted x LCCC +- cycle 4 carboplatin/ etoposide with desensitization \nNoted urticarial rash on 5/1 (before chemo), no specific triggers identified, no suggestive features of anaphylaxis. Self-resolving, given oral piriton x1 \n\nBloods (6/1): ANC 2.04, Plt 381\nCycle 4 chemo started 6/1",
+      "recommendation": "Continue chemotherapy \nMonitor urticarial rash ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Presented with 3 week history of leucocoria",
+      "diagnosis": "Left eye Group D retinoblastoma",
+      "drugs": "Septrin",
+      "ix": "",
+      "progress": "EUA perform on 23/12: left eye group D retinoblastoma\nBroviac insertion on 23/12\nStarted 1st cycle CEV on 23/12",
+      "recommendation": "Home on 13/01 after chemo",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "GPH, developed low grade fever and malaise x 2 weeks, LOA x 3 days\nHKBH MRI: 6.7x9.54x10.61 suprarenal heterogenous mass involving right lobe of liver with lung met",
+      "diagnosis": "Hepatoblastoma, PRETEXT IV, V+ P- E- F+ R+ C- N- M+",
+      "drugs": "IV Tazocin \nSeptrin",
+      "ix": "AFP 1720000 (29/12) -> 2148450 (5/1) -> 1318550 (12/1) -> T/F (19/1)\nCT: 11.2cm x 9.2cm x 10.0cm hepatic mass\nAlso noted evidence of IVC invasion, acute PE, probable tumour rupture with visible defect at segment 7 and overlying subcapsular hematoma. No active bleeding.\nEcho: no pulmonary HT, satisfactory cardiac function",
+      "progress": "1. Neutropenic fever, on IV tazocin \nFever up to 39C on 19/1, down on 20/1\nNo infectious foci, not septic looking \nWCC 2.63, ANC 0.02, CRP 10, blood c/st T/F \n\n2. Thrombocytopenia \nPlt 3, mild petechiae over face and trunk, otherwise no bleeding Sx \nTransfused \n\n<Plan>\nUSG abd + pelvis after cycle 1 27/1/2023\nCT T+A+P with contrast after cycle 2 20/2/2023",
+      "recommendation": "Monitor fever trend ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Presented with oral pain and mass at left floor of mouth since mid Nov 2022\nProgressive in size and symptomatic affected chewing \nOccasional oral pain during chewing and brushing of teeth\nNo fever, no other active complaints\nNo recent contact bleeding/ ulcer",
+      "diagnosis": "Left floor of mouth tumor \nAngiomyxoid tumor ",
+      "drugs": "Sirolimus (withhold since 6/1 PM till ~1/52 after OT depends on wound healing)",
+      "ix": "Timing of PET-CT to be discussed ",
+      "progress": "Tentative OT on 9/1/2023 AM for Left floor of mouth tumor for debulking +/- excisional biopsy in view of progressively enlarging in size, unsure pathology and symptomatic\n\n1. Pre-op assessment (HL from 6-8/1/2023)\nECG CXR transfusion consent done \nPlease take pre-op bloods (T&S, clotting profile) and pre-op medications as suggested \n\n2. Planned to be admitted to ENT ward +/- backup PICU post-op\nPost-op planned for R/T feeding \n\n3. W/H Sirolimus since 6/1 PM till tentative 1-week post OT \nAs Sirolimus may affect wound healing, plan resume afterwards ",
+      "recommendation": "1. Blood x clotting profile, T&S on 8/1/23 after back from HL, tentative OT on 9/1/2023\n2. Follow pre-op plan according to ENT and anes\n3. Sirolimus W/H since 6/1 PM, for review time of resuming Sirolimus  ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Metastatic neuroblastoma with metastasis first diagnosed in May 2021\nPreviously on HR treatment with N7 protocol, OT done \nauto PBSCT 1/2022 \nNow on 3F8 course 3 given since 4/1",
+      "diagnosis": "Metastatic neuroblastoma, refractory bone lesion \n",
+      "drugs": "",
+      "ix": "",
+      "progress": "3F8 D3-4 given admitted on 6/1, next re-admission on 9/1 \nItchiness and urticaria for D1 and D3 of current cycle, relieved by piriton and diphenhydramine, no angioedema/ anaphylaxis\nHistory of anaphylaxis on cycle 2 D1 required 2 doses of IM adrenaline ",
+      "recommendation": "1. Readmission on 9/1 for continue chemotherapy\n ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Testing ",
+      "diagnosis": "Testing ",
+      "drugs": "",
+      "ix": "",
+      "progress": "",
+      "recommendation": "Testing ",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Acute proptosis of left eye since mid-Dec 2022. Attended ENT/ Eye with FESS done 05/01:  alveolar rhabdomyosarcoma\nPET-CT 12/01: bilateral cervical LN hypermetabolic foci, likely metastasis",
+      "diagnosis": "Left ethmoidal sinus ARMS with left eye proptosis",
+      "drugs": "1. IV Tazocin - Day 2\n2. IV Piriton. PRN Panadol\n3. Eye drops: Cravit, Duratears",
+      "ix": "",
+      "progress": "1. Left ethmoidal sinus ARMS. Hickman inserted 13/01. Start ARST1431 protocol 13/01\n2. Left eye proptosis. On topical Cravit and lubricant eye drops. Await eye review 13/01\n3. Non-neutropenic fever ? Tumor fever + non-specific non-pruritic MP rash\nInitially on IV Rocephin --> to Tazocin on 11/01 due to persistent fever. CRP up to 26. Bld c/st T/F x 2\nSepsis workup unremarkable so far. On regular Piriton and PRN panadol\nContinue abx eye drops - await eye review 13/01\n",
+      "recommendation": "Chemo as per protocol\nRepeat blood culture + Escalate to IV Ｍeropenem if ongoing fever",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "R distal femur osteosarcoma with lung metastasis\nNew Left upper lobe lung metastasis. VATS+Wedge resection 13/01/2023",
+      "diagnosis": "R distal femur osteosarcoma with lung metastasis\nNew Left upper lobe lung metastasis. Wed resection",
+      "drugs": "1. PCA morphine 18mcg/kg/dose\n2. Other pain control: Regular IV Paracetamol, Pregabalin, Tramadol ",
+      "ix": "",
+      "progress": "1. VATS+Wedge resection 13/01/2023\n0-6L/min O2 via NC. Pain control with multiple analgesics\nChest drain output+\nPost-op IV Augmentin for 1 day",
+      "recommendation": "Monitor post-op status",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Newly diagnosed right eye group C retinoblastoma, for IAC",
+      "diagnosis": "Newly diagnosed right eye group C retinoblastoma",
+      "drugs": "Kytril\nSeptrin ",
+      "ix": "G6PD deficiency ",
+      "progress": "Incidental finding of right eye retinoblastoma upon consultation for chalazion investigation in 1/2023\n\nMRI: 1x0.4x1.1 heterogenously enhancing intraocular lesion at posterior aspect of RE globe, suggestive of retinoblastoma\n\nFirst course of IAC on 20/1/2023\nPut of pelvic cast for 5 hours post-op for hemostasis, now removed. ",
+      "recommendation": "Monitor femoral wound, can home mane if wound well \nConsider steroids eyedrops if red eye\nPlan home mane if stable and well\nR/A for LCCC",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Initially presented with facial nerve palsy in 21/12/2022 treated with a course of steroid. MRI Brain 2.1x1.6x3cm T2 mild hyperintense lesion at 4th ventricle in midline. Plan RT at ~12 months of age ",
+      "diagnosis": "Posterior fossa ependymoma, near total resection performed on 6/1 ",
+      "drugs": "Hypromellose eye drops",
+      "ix": "RFT: Na135 K3.7 Urea 4.1 Cr 52",
+      "progress": "1. Near total excision of posterior fossa tumor on 6/1, POD7 today, off stitches in SOPD on 16/1 \n2. Seen by neurology team for baseline neurodevelopment. Mild residual R facial assymetry improving \n3. dRFT Cr 52, encouraged fluid intake and on IVF, plan recheck on 14/1 before discharge \n4. Femoral line, plan off before discharge \n",
+      "recommendation": "1. Recheck RFT on 14/1, if improving planned for discharge \n2. FU neurodevelopmental medicine clinic, neurology as scheduled \n3. Off stitch on 16/1 in SOPD",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Endoscopic tumor removal + rickham's capsule insertion + ventricular catheter insertion on 5 Dec 2015 → residual suprasellar and parasellar tumor + persistent hydrocephalus. Endoscopic fenestration of posterior fossa cyst in mid Dec 2015. Postop intrac-cystic interdferon alpha-2B injections since 23 Dec 2015 till Sept 2017  (7th cycle)\n\nGiven IFN-a; last cycle in 12/2020 (total 12.5 cycles)\n\nLeft craniotomy x tumour excision + shunt removal 28/1/22\n\nCraniotomy for excision of tumour on 18/1/23 in view of MRI brain showing interval increase in brain lesion ",
+      "diagnosis": "Cystic craniopharyngioma\nCraniotomy for excision of tumour on 18/1/23",
+      "drugs": "IV rocephin \nPO keppra \nIV hydrocortisone (stress dose)",
+      "ix": "",
+      "progress": "1. POD1 fever \nSpike of fever 38.5C, then fever down \nNot septic looking \nDressing well, no headache/ neck stiffness \nKept on IV rocephin since post-op \nWCC/ ANC unremarkable, CRP 25, blood c/st T/F\n\nConsulted NS, likely post-op reaction \n\n2. ? DI \nIncreasing UO on POD2, consulted endocrine\nFor RFT monitoring at the moment \nCurrently no features of DI",
+      "recommendation": "Monitor I/O\nInform endocrine if cumulative I/O -1500ml or more\nRFT at 10pm\n\nMonitor fever trend \nTo wean stress dose mane if stable (see endocrine notes for weaning plan)\nHome if fever down & clinically stable",
+      "specialtyCode": "ONC"
+    },
+    {
+      "background": "Newly diagnosed hepatoblastoma, PRETEXT II, V-P-E-F+R-C+N-M-, low risk\n- Enrolled to PHITT (JPL4) Group B, 1st course C5VD given on 17/1/2023\n",
+      "diagnosis": "Newly diagnosed hepatoblastoma, PRETEXT II, V-P-E-F+R-C+N-M-, low risk\nHyperkalemia \nHyperuricaemia",
+      "drugs": "Septrin\nRegular lasix for one day with full maintenance IVF",
+      "ix": "AFP 428410\nK 5.8 ->5.0 rest of LRFT CaPO4 Mg NAD",
+      "progress": "Presented as chronic cough and repeated post-tussive projectile vomiting since mid-late 12/2022, finding of abdominal mass with sky high AFP hence transferred to HCH\n\nCT A+P (13/1/2023): large 9.5x7x9cm heterogenous hypo enhancing mass with 6 mm coarse calcification in left lobe of liver with area of hypodensity, can represent necrosis\n\nCT thorax: 0.3cm triangular shaped non calcified nodule at lateral segment of RML, nature indeterminate, intrapulmonary LN is possible, lung metastasis is difficult to be excluded. However in context with PRETEXT staging does not meet criteria of M+\n\nEnrolled to PHITT (JPL4) Group B, 1st course C5VD given on 17/1/2023\n\nAFP 428410\n\n1. Hyperkalemia and fluid overload\nDesaturation on 18/1 during post hydration, lung congested given one dose of lasix and resolved. \nHyper K up to 6.3 required calcium gluconate, DI drip and resonium A, no arrhythmia \nImpression: iatrogenic hyperkalemia due to K supplement in concurrent + post hydration fluid, for reduction of K supplement in future cycles and strict monitoring of I/O\n\n2. Hyperuricaemia \nGiven allopurinol but HLAB5801 detected, discontinued afterwards, no rash all along \nUrate level normalized \n\n3. G6PD deficiency\nDiscussed in STM, for septrin due to low risk of hemolysis in chinese population \n\nAppointment: \nCT (A+T) T/F, aim in early Feb 2023\nAudiogram appointment T/F",
+      "recommendation": "1. For IVF 100% maintenance with regular lasix for one day, repeat RFT for trend \n2. Allow home when electrolytes stable, trace CT and audiogram appt upon next readmission for LCCC",
+      "specialtyCode": "ONC"
+    }
+  ]

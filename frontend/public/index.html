@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="theme-color" content="#000000">
+	<link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+	<!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->  
+
+  <title>React App</title>
+  <style>
+    .loading_loader {
+      margin: 10px auto 20px auto;
+      padding: 4px;
+      border: 6px solid #EAF0F6;
+      border-radius: 50%;
+      border-top: 6px solid #FF7A59;
+      width: 40px;
+      height: 40px;
+      animation: spinner 4s linear infinite;
+    }
+
+    @keyframes spinner {
+      0% {
+        transform: rotate(0deg);
+      }
+
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    .loading {
+      font-family: calibri;
+    }
+  </style>
+</head>
+
+<body>
+  <noscript>
+    You need to enable JavaScript to run this app.
+  </noscript>
+
+  <div class="loading" id="ieloading">
+    <div class='loading_text' style='font-size: 1.5em;text-align: center;'>
+      <span>App launching...</span>
+    </div>
+    <div class="loading_loader">
+    </div>
+  </div>
+  <div id="root"></div>
+  <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+</body>
+
+</html>

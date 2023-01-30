@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bee5102a.chunk.css",
+    "main.js": "/static/js/main.49425ed1.chunk.js",
+    "main.js.map": "/static/js/main.49425ed1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0ab9a435.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0ab9a435.js.map",
+    "static/css/2.e5d41a6b.chunk.css": "/static/css/2.e5d41a6b.chunk.css",
+    "static/js/2.a813108a.chunk.js": "/static/js/2.a813108a.chunk.js",
+    "static/js/2.a813108a.chunk.js.map": "/static/js/2.a813108a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e5d41a6b.chunk.css.map": "/static/css/2.e5d41a6b.chunk.css.map",
+    "static/css/main.bee5102a.chunk.css.map": "/static/css/main.bee5102a.chunk.css.map",
+    "static/js/2.a813108a.chunk.js.LICENSE.txt": "/static/js/2.a813108a.chunk.js.LICENSE.txt",
+    "static/media/jqx.base.css": "/static/media/map-saturation-overlay.d0ab86ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ab9a435.js",
+    "static/css/2.e5d41a6b.chunk.css",
+    "static/js/2.a813108a.chunk.js",
+    "static/css/main.bee5102a.chunk.css",
+    "static/js/main.49425ed1.chunk.js"
+  ]
+}
